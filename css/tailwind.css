@@ -3,6 +3,4 @@
 @tailwind utilities;
 
 p {
-  @apply .text-orange;
-
 }

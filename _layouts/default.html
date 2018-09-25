@@ -4,10 +4,19 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/css/compiled.css">
-    <link rel="stylesheet" href="/css/custom.css">
   </head>
   <body class="font-source-sans font-normal text-black leading-normal">
-    <div class="container mx-auto px-6">
+    <div class="flex bg-white border-b border-grey-lighter shadow fixed pin-t pin-x z-100 h-16 items-center">
+      <div class="ml-8">
+        <img src="/assets/tuple-logo-small.png" class="h-12">
+      </div>
+
+      <div>
+        <h2 class="text-grey-darkest mb-1">Tuple's Pair Programming Guide</h2>
+      </div>
+    </div>
+
+    <div class="container mx-auto px-6 pt-24">
       {{ content }}
     </div>
   </body>
