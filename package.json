@@ -3,5 +3,9 @@
     "autoprefixer": "^9.1.5",
     "postcss-cli": "^6.0.0",
     "tailwindcss": "^0.6.6"
+  },
+
+  "scripts": {
+    "build": "postcss css/tailwind.css -o css/compiled.css"
   }
 }
