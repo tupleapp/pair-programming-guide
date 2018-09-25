@@ -6,6 +6,7 @@
   },
 
   "scripts": {
-    "build": "postcss css/tailwind.css -o css/compiled.css"
+    "build": "postcss css/tailwind.css -o css/compiled.css",
+    "watch": "postcss css/tailwind.css -o css/compiled.css --watch"
   }
 }

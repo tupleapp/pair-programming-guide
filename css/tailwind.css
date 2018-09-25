@@ -3,5 +3,6 @@
 @tailwind utilities;
 
 p {
-  @apply .text-blue;
+  @apply .text-orange;
+
 }
