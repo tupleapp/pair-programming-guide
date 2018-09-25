@@ -6248,6 +6248,10 @@ table {
   z-index: auto;
 }
 
+p {
+  color: #3490dc;
+}
+
 @media (min-width: 576px) {
   .sm\:list-reset {
     list-style: none;
