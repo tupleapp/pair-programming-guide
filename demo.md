@@ -34,3 +34,16 @@ By the way, here is a bulleted list:
 * Final thoughts
 
 For kicks, let's also include a [link]() or [two]().
+
+## Yet another second-level heading
+
+This is a new section, isn't it grand?
+
+In this second section, I might write even more words.
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
+
+Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.
+
+Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+

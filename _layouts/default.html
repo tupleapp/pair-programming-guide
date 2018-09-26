@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="/css/compiled.css">
   </head>
   <body class="font-source-sans font-normal text-black leading-normal">
-    <div class="flex bg-white border-b border-grey-lighter shadow fixed pin-t pin-x z-100 h-16 items-center">
+    <header class="flex bg-white border-b border-grey-lighter shadow fixed pin-t pin-x z-100 h-16 items-center">
       <div class="ml-8">
         <img src="/assets/tuple-logo-small.png" class="h-12">
       </div>
@@ -14,10 +14,26 @@
       <div>
         <h2 class="text-grey-darkest mb-1">Tuple's Pair Programming Guide</h2>
       </div>
-    </div>
+    </header>
 
-    <div class="container mx-auto px-6 pt-24">
-      {{ content }}
+    <div class="flex">
+      <div class="absolute z-90 top-16 bg-white w-full border-b lg:-mb-0 lg:static lg:bg-transparent lg:border-b-0 lg:pt-0 lg:w-1/4 lg:block lg:border-0 xl:w-1/5">
+        <nav class="mt-24">
+          <ul>
+            <li>A good topic</li>
+            <li>Some other things</li>
+            <li>Maybe this thing too</li>
+            <li>Short</li>
+            <li>This other thing</li>
+            <li>Foo bar baz</li>
+            <li>Lorem Ipsum</li>
+          </ul>
+        </nav>
+      </div>
+
+      <div class="container px-6 pt-24 content">
+        {{ content }}
+      </div>
     </div>
   </body>
 </html>

@@ -652,6 +652,21 @@ table {
   }
 }
 
+/* Custom stuff goes here */
+
+.content h1 {
+  margin-bottom: 1rem;
+}
+
+.content h2 {
+  margin-top: .75rem;
+  margin-bottom: .25rem;
+}
+
+.content p {
+  line-height: 1.5;
+}
+
 .list-reset {
   list-style: none;
   padding: 0;
@@ -6246,9 +6261,6 @@ table {
 
 .z-auto {
   z-index: auto;
-}
-
-p {
 }
 
 @media (min-width: 576px) {
