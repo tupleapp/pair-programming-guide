@@ -6,32 +6,44 @@
     <link rel="stylesheet" href="/css/compiled.css">
   </head>
   <body class="font-source-sans font-normal text-black leading-normal">
-    <header class="flex bg-white border-b border-grey-lighter shadow fixed pin-t pin-x z-100 h-16 items-center">
+    <header class="flex bg-white border-b shadow border-grey-lighter fixed pin-t pin-x z-100 h-16 items-center">
       <div class="ml-8">
         <img src="/assets/tuple-logo-small.png" class="h-12">
       </div>
 
       <div>
-        <h2 class="text-grey-darkest mb-1">Tuple's Pair Programming Guide</h2>
+        <h2 class="text-grey-darkest mb-1">The Tuple Pair Programming Guide</h2>
       </div>
     </header>
 
     <div class="flex">
-      <div class="absolute z-90 top-16 bg-white w-full border-b lg:-mb-0 lg:static lg:bg-transparent lg:border-b-0 lg:pt-0 lg:w-1/4 lg:block lg:border-0 xl:w-1/5">
-        <nav class="mt-24 ml-8">
+      <div class="absolute z-90 top-16 bg-grey-lighter w-full border-r lg:-mb-0 lg:static lg:border-b-0 lg:pt-0 lg:w-1/4 lg:block xl:w-1/5">
+        <nav class="mt-24 ml-10">
+          <p class="mb-3 uppercase tracking-wide font-bold">Introduction</p>
           <ul class="list-reset">
-            <li class="mb-3">A good topic</li>
-            <li class="mb-3">Some other things</li>
-            <li class="mb-3">Maybe this thing too</li>
-            <li class="mb-3">Short</li>
-            <li class="mb-3">This other thing</li>
-            <li class="mb-3">Foo bar baz</li>
-            <li class="mb-3">Lorem Ipsum</li>
+            <li class="mb-3 text-md">Why should you pair?</li>
+            <li class="mb-3 text-md">Is pairing slower?</li>
+            <li class="mb-3 text-md">Maybe this thing too</li>
+            <li class="mb-3 text-md">Short</li>
+            <li class="mb-3 text-md">This other thing</li>
+            <li class="mb-3 text-md">Foo bar baz</li>
+            <li class="mb-3 text-md">Lorem Ipsum</li>
+          </ul>
+
+          <p class="pt-6 pb-3 uppercase tracking-wide font-bold">How to drive</p>
+          <ul class="list-reset">
+            <li class="mb-3 text-md">Why should you pair?</li>
+            <li class="mb-3 text-md">Is pairing slower?</li>
+            <li class="mb-3 text-md">Maybe this thing too</li>
+            <li class="mb-3 text-md">Short</li>
+            <li class="mb-3 text-md">This other thing</li>
+            <li class="mb-3 text-md">Foo bar baz</li>
+            <li class="mb-3 text-md">Lorem Ipsum</li>
           </ul>
         </nav>
       </div>
 
-      <div class="container px-6 pt-24 content">
+      <div class="container px-10 pt-24 max-w-lg content">
         {{ content }}
       </div>
     </div>
