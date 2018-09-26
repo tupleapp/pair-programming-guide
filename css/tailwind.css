@@ -15,4 +15,8 @@
 .content p {
 }
 
+a:visited {
+  color: red;
+}
+
 @tailwind utilities;
