@@ -13,8 +13,13 @@
   @apply text-xl;
 }
 
+.content h1 {
+  @apply text-4xl;
+}
+
 .content h2 {
   @apply .mt-10;
+  @apply text-3xl;
 }
 
 a {

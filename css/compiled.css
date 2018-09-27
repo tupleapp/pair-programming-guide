@@ -665,8 +665,13 @@ table {
   font-size: 1.25rem;
 }
 
+.content h1 {
+  font-size: 2.25rem;
+}
+
 .content h2 {
   margin-top: 2.5rem;
+  font-size: 1.875rem;
 }
 
 a {

@@ -22,7 +22,7 @@ Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit ame
 
 Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
 
-## Yet another second-level heading
+## A deep dive on one particular thing 
 
 This is a new section, isn't it grand?
 
@@ -45,7 +45,7 @@ By the way, here is a bulleted list:
 
 For kicks, let's also include a [link]() or [two]().
 
-## Yet another second-level heading
+## A deep dive on one particular thing 
 
 This is a new section, isn't it grand?
 
