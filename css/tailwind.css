@@ -6,10 +6,15 @@
 .content p {
   @apply .my-5;
   @apply .text-xl;
+  @apply .font-serif;
 }
 
 .content li {
   @apply text-xl;
+}
+
+.content h2 {
+  @apply .mt-10;
 }
 
 a {

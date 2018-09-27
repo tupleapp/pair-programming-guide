@@ -658,10 +658,15 @@ table {
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
   font-size: 1.25rem;
+  font-family: Constantia, Lucida Bright, Lucidabright, Lucida Serif, Lucida, DejaVu Serif, Bitstream Vera Serif, Liberation Serif, Georgia, serif;
 }
 
 .content li {
   font-size: 1.25rem;
+}
+
+.content h2 {
+  margin-top: 2.5rem;
 }
 
 a {

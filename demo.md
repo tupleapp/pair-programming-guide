@@ -22,19 +22,6 @@ Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit ame
 
 Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
 
-### Third heading
-
-Now we're just getting crazy.
-
-By the way, here is a bulleted list:
-
-* One thing
-* Another thing that is a bit longer
-* Third thing that is even longer than the other omg wow.
-* Final thoughts
-
-For kicks, let's also include a [link]() or [two]().
-
 ## Yet another second-level heading
 
 This is a new section, isn't it grand?
