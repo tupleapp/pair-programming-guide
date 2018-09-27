@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Demo
+title: Thoughtful Pairing
 permalink: /demo/
 ---
 
