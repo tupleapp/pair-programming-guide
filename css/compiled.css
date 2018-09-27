@@ -663,6 +663,7 @@ table {
 
 .content li {
   font-size: 1.25rem;
+  font-family: Constantia, Lucida Bright, Lucidabright, Lucida Serif, Lucida, DejaVu Serif, Bitstream Vera Serif, Liberation Serif, Georgia, serif;
 }
 
 .content h1 {
@@ -3817,6 +3818,10 @@ a:hover {
 
 .min-w-0 {
   min-width: 0;
+}
+
+.min-w-16 {
+  min-width: 16rem;
 }
 
 .min-w-full {
@@ -9408,6 +9413,10 @@ a:hover {
     min-width: 0;
   }
 
+  .sm\:min-w-16 {
+    min-width: 16rem;
+  }
+
   .sm\:min-w-full {
     min-width: 100%;
   }
@@ -14980,6 +14989,10 @@ a:hover {
 
   .md\:min-w-0 {
     min-width: 0;
+  }
+
+  .md\:min-w-16 {
+    min-width: 16rem;
   }
 
   .md\:min-w-full {
@@ -20556,6 +20569,10 @@ a:hover {
     min-width: 0;
   }
 
+  .lg\:min-w-16 {
+    min-width: 16rem;
+  }
+
   .lg\:min-w-full {
     min-width: 100%;
   }
@@ -26128,6 +26145,10 @@ a:hover {
 
   .xl\:min-w-0 {
     min-width: 0;
+  }
+
+  .xl\:min-w-16 {
+    min-width: 16rem;
   }
 
   .xl\:min-w-full {

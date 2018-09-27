@@ -553,6 +553,7 @@ module.exports = {
 
   minWidth: {
     '0': '0',
+    '16': '16rem',
     'full': '100%',
   },
 
