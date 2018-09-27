@@ -47,9 +47,7 @@ Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit ame
 
 Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
 
-### Third heading
-
-Now we're just getting crazy.
+Now we're just getting crazy, right?
 
 By the way, here is a bulleted list:
 

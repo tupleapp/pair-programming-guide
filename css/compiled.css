@@ -654,17 +654,26 @@ table {
 
 /* Custom stuff goes here */
 
-.content h1 {
-  margin-bottom: 1rem;
-}
-
-.content h2 {
-  margin-top: .75rem;
-  margin-bottom: .25rem;
-}
-
 .content p {
-  line-height: 1.5;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  font-size: 1.25rem;
+}
+
+.content li {
+  font-size: 1.25rem;
+}
+
+a {
+  color: #5661b3;
+}
+
+a:visited {
+  color: #3d4852;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 .list-reset {
@@ -3249,7 +3258,7 @@ table {
 }
 
 .leading-normal {
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 .leading-loose {
@@ -8838,7 +8847,7 @@ table {
   }
 
   .sm\:leading-normal {
-    line-height: 1.5;
+    line-height: 1.75;
   }
 
   .sm\:leading-loose {
@@ -14412,7 +14421,7 @@ table {
   }
 
   .md\:leading-normal {
-    line-height: 1.5;
+    line-height: 1.75;
   }
 
   .md\:leading-loose {
@@ -19986,7 +19995,7 @@ table {
   }
 
   .lg\:leading-normal {
-    line-height: 1.5;
+    line-height: 1.75;
   }
 
   .lg\:leading-loose {
@@ -25560,7 +25569,7 @@ table {
   }
 
   .xl\:leading-normal {
-    line-height: 1.5;
+    line-height: 1.75;
   }
 
   .xl\:leading-loose {

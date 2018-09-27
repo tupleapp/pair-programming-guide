@@ -3,20 +3,25 @@
 
 /* Custom stuff goes here */
 
-.content h1 {
-  @apply .mb-4;
-}
-
-.content h2 {
-  @apply .mt-3;
-  @apply .mb;
-}
-
 .content p {
+  @apply .my-5;
+  @apply .text-xl;
+}
+
+.content li {
+  @apply text-xl;
+}
+
+a {
+  @apply .text-indigo-dark;
 }
 
 a:visited {
-  color: red;
+  @apply .text-grey-darkest;
+}
+
+a:hover {
+  @apply .underline;
 }
 
 @tailwind utilities;
