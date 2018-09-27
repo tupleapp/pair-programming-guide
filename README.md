@@ -2,7 +2,7 @@
 
 0. Install the deps: 
 
-  run `yarn`.
+  run `yarn` and `bundle install`.
 
 1. Run postcss to compile tailwind:
 
