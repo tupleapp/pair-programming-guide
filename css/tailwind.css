@@ -16,11 +16,13 @@
 
 .content h1 {
   @apply text-4xl;
+  @apply .leading-tight;
 }
 
 .content h2 {
   @apply .mt-10;
   @apply text-3xl;
+  @apply .leading-tight;
 }
 
 a {
