@@ -8,7 +8,7 @@ permalink: /demo/
 
 This is a demo page with a number of elements so I can see how things look while I'm styling it. This is a pretty long line that goes on for a while and doesn't really have an ending, so I can see what paragraphs look like. That's pretty reasonable, given that this resource will have lots of paragraphs eventually. Hopefully. Otherwise it will be hard to get users and get paid and such. Which will be a bummer on our finances and general mental health.
 
-This is another, shorter line.
+This is another, shorter line. It appears right above a second-level heading.
 
 ## Second-level heading
 

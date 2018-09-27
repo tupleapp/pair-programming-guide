@@ -655,25 +655,20 @@ table {
 /* Custom stuff goes here */
 
 .content p {
-  margin-top: 1.25rem;
-  margin-bottom: 1.25rem;
-  font-size: 1.25rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   font-family: Constantia, Lucida Bright, Lucidabright, Lucida Serif, Lucida, DejaVu Serif, Bitstream Vera Serif, Liberation Serif, Georgia, serif;
 }
 
 .content li {
-  font-size: 1.25rem;
   font-family: Constantia, Lucida Bright, Lucidabright, Lucida Serif, Lucida, DejaVu Serif, Bitstream Vera Serif, Liberation Serif, Georgia, serif;
 }
 
 .content h1 {
-  font-size: 2.25rem;
   line-height: 1.25;
 }
 
 .content h2 {
-  margin-top: 2.5rem;
-  font-size: 1.875rem;
   line-height: 1.25;
 }
 

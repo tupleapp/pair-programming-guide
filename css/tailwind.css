@@ -4,24 +4,19 @@
 /* Custom stuff goes here */
 
 .content p {
-  @apply .my-5;
-  @apply .text-xl;
+  @apply .my-4;
   @apply .font-serif;
 }
 
 .content li {
-  @apply text-xl;
   @apply .font-serif;
 }
 
 .content h1 {
-  @apply text-4xl;
   @apply .leading-tight;
 }
 
 .content h2 {
-  @apply .mt-10;
-  @apply text-3xl;
   @apply .leading-tight;
 }
 
