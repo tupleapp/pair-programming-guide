@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thoughtful Pairing
+title: Pairing Thoughtfully – by Tuple
 permalink: /demo/
 ---
 
