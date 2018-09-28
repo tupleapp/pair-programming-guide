@@ -1,35 +1,41 @@
 @tailwind preflight;
+
+a {
+  @apply text-indigo-dark;
+}
+
+a:visited {
+  @apply text-grey-darkest;
+}
+
+a:hover {
+  @apply underline;
+}
+
 @tailwind components;
 
 /* Custom stuff goes here */
 
+.content {
+  @apply text-grey-darkest;
+}
+
 .content p {
-  @apply .my-4;
-  @apply .font-serif;
+  @apply my-4;
+  @apply font-serif;
 }
 
 .content li {
-  @apply .font-serif;
+  @apply font-serif;
 }
 
-.content h1 {
-  @apply .leading-tight;
+.content h1,
+.content h2 {
+  @apply leading-tight text-black;
 }
 
 .content h2 {
-  @apply .leading-tight;
-}
-
-a {
-  @apply .text-indigo-dark;
-}
-
-a:visited {
-  @apply .text-grey-darkest;
-}
-
-a:hover {
-  @apply .underline;
+  @apply mt-10 mb-4;
 }
 
 @tailwind utilities;
