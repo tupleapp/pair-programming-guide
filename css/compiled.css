@@ -624,6 +624,18 @@ table {
   border-collapse: collapse;
 }
 
+a {
+  color: #5661b3;
+}
+
+a:visited {
+  color: #3d4852;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 .container {
   width: 100%;
 }
@@ -654,6 +666,10 @@ table {
 
 /* Custom stuff goes here */
 
+.content {
+  color: #3d4852;
+}
+
 .content p {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -664,24 +680,15 @@ table {
   font-family: Constantia, Lucida Bright, Lucidabright, Lucida Serif, Lucida, DejaVu Serif, Bitstream Vera Serif, Liberation Serif, Georgia, serif;
 }
 
-.content h1 {
+.content h1,
+.content h2 {
   line-height: 1.25;
+  color: #22292f;
 }
 
 .content h2 {
-  line-height: 1.25;
-}
-
-a {
-  color: #5661b3;
-}
-
-a:visited {
-  color: #3d4852;
-}
-
-a:hover {
-  text-decoration: underline;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
 }
 
 .list-reset {
