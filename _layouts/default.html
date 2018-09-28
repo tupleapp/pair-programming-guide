@@ -17,14 +17,30 @@
       function toggleNav() {
         var nav = document.getElementById("nav");
         var content = document.getElementById("content");
+        var hamburger = document.getElementById("hamburger");
+        var closeButton = document.getElementById("close-button");
 
         if (nav.classList.contains("hidden")) {
-          nav.classList.remove("hidden");
-          content.classList.add("hidden");
+          show(nav);
+          hide(content);
+
+          hide(hamburger);
+          show(closeButton);
         } else {
-          nav.classList.add("hidden");
-          content.classList.remove("hidden");
+          hide(nav);
+          show(content);
+
+          hide(closeButton);
+          show(hamburger);
         }
+      }
+
+      function hide(element) {
+        element.classList.add("hidden");
+      }
+
+      function show(element) {
+        element.classList.remove("hidden");
       }
     </script>
   </head>
@@ -40,16 +56,20 @@
         </div>
 
 
-        <div class="lg:hidden py-2 text-grey-darker">
-          <button class="block h-8 w-8" onclick="toggleNav()">
+        <div class="lg:hidden py-2">
+          <button id="hamburger" class="block h-8 w-8 text-grey-dark" onclick="toggleNav()">
             <svg preserveAspectRatio="xMidYMid meet" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" class="_13gjrqj"><g><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></g></svg>
+          </button>
+
+          <button id="close-button" class="hidden block h-8 w-8 text-grey-dark" onclick="toggleNav()">
+            <svg fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 8.586L2.929 1.515 1.515 2.929 8.586 10l-7.071 7.071 1.414 1.414L10 11.414l7.071 7.071 1.414-1.414L11.414 10l7.071-7.071-1.414-1.414L10 8.586z"/></svg>
           </button>
         </div>
       </div>
     </header>
 
     <div class="flex">
-      <div id="nav" class="hidden absolute z-40 top-16 pb-16 min-h-screen bg-grey-lighter w-full border-r lg:-mb-0 lg:static lg:border-b-0 lg:pt-0 lg:w-1/4 lg:block xl:w-1/6 min-w-16">
+      <div id="nav" class="hidden absolute z-40 top-16 pb-16 pl-8 text-lg min-h-screen bg-grey-lighter w-full border-r lg:text-base lg:-mb-0 lg:static lg:border-b-0 lg:pt-0 lg:w-1/4 lg:block xl:w-1/6 min-w-16">
         <nav class="mt-8 ml-10">
           <p class="mb-3 uppercase tracking-wide font-bold leading-tight">Introduction</p>
           <ul class="list-reset">
