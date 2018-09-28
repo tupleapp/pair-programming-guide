@@ -1,10 +1,10 @@
 ## Getting started
 
-0. Install the deps: `yarn && bundle install`.
+1. Install the deps: `yarn && bundle install`.
 
-1. Run postcss to compile tailwind: `yarn build`
+2. Run postcss to compile tailwind: `yarn build`.
 
-2. Tell jekyll to serve the site: `jekyll serve`
+3. Tell jekyll to serve the site: `jekyll serve`.
 
 
 ## Developing
