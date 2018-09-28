@@ -12,27 +12,44 @@
     <meta name="theme-color" content="#ffffff">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/css/compiled.css">
+
+    <script>
+      function toggleNav() {
+        var nav = document.getElementById("nav");
+        var content = document.getElementById("content");
+
+        if (nav.classList.contains("hidden")) {
+          nav.classList.remove("hidden");
+          content.classList.add("hidden");
+        } else {
+          nav.classList.add("hidden");
+          content.classList.remove("hidden");
+        }
+      }
+    </script>
   </head>
+
   <body class="font-sans font-normal text-black leading-normal">
     <header class="bg-white border-b shadow border-grey-lighter px-4 relative z-50">
       <div class="flex items-center justify-between relative">
         <div class="flex-no-shrink flex">
           <img src="/assets/tuple-logo-small.png" class="h-12">
           <div class="mr-2 py-2">
-            <h1 class="text-indigo-darkest sm:block text-lg">Pairing Thoughtfully</h1>
+            <h1 class="tracking-wide text-indigo-darkest sm:block text-lg">Tuple's Pairing Proverbs</h1>
           </div>
         </div>
 
 
         <div class="lg:hidden py-2 text-grey-darker">
-          <!-- TODO: click this for menu -->
-          <svg class="block h-8 w-8" preserveAspectRatio="xMidYMid meet" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" class="_13gjrqj"><g><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></g></svg>
+          <button class="block h-8 w-8" onclick="toggleNav()">
+            <svg preserveAspectRatio="xMidYMid meet" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" class="_13gjrqj"><g><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></g></svg>
+          </button>
         </div>
       </div>
     </header>
 
     <div class="flex">
-      <div class="absolute hidden z-40 top-16 bg-grey-lighter w-full border-r lg:-mb-0 lg:static lg:border-b-0 lg:pt-0 lg:w-1/4 lg:block xl:w-1/6 min-w-16">
+      <div id="nav" class="hidden absolute z-40 top-16 pb-16 min-h-screen bg-grey-lighter w-full border-r lg:-mb-0 lg:static lg:border-b-0 lg:pt-0 lg:w-1/4 lg:block xl:w-1/6 min-w-16">
         <nav class="mt-8 ml-10">
           <p class="mb-3 uppercase tracking-wide font-bold leading-tight">Introduction</p>
           <ul class="list-reset">
@@ -64,7 +81,7 @@
         </nav>
       </div>
 
-      <div class="max-w-md px-10 py-8 content mx-auto">
+      <div id="content" class="max-w-md px-10 py-8 content mx-auto lg:ml-8">
         {{ content }}
       </div>
     </div>
