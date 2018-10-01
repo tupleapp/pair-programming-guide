@@ -63,7 +63,7 @@ Admit when you're stuck. Show them how you get unblocked.
 
 Admit when you're tired. Show them the worthiness of breaks.
 
-<form action="https://www.getdrip.com/forms/575249342/submissions" method="post" data-drip-embedded-form="575249342"
+<form id="subscribe" action="https://www.getdrip.com/forms/575249342/submissions" method="post" data-drip-embedded-form="575249342"
 class="my-20">
   <div class="block md:flex items-center rounded-lg shadow-none md:shadow-lg bg-grey-lightest">
     <input class="outline-none bg-grey-lightest w-full
