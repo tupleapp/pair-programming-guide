@@ -17,20 +17,24 @@ a:hover {
 /* Custom stuff goes here */
 
 .content {
-  @apply text-grey-darkest;
+  @apply text-grey-darkest
 }
 
 .content p {
-  @apply my-4;
+  @apply my-4 font-serif
+}
+
+.content li {
+  @apply font-serif
 }
 
 .content h1,
 .content h2 {
-  @apply leading-tight text-black;
+  @apply leading-tight text-black
 }
 
 .content h2 {
-  @apply mt-10 mb-4;
+  @apply mt-10 mb-4
 }
 
 @tailwind utilities;
