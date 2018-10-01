@@ -28,8 +28,10 @@ https://app.netlify.com/sites/pair-programming-guide/overview
 
 ## Todos
 
-- [ ] Newsletter signup
+- [x] Newsletter signup
+- [x] GH source link (ask folks to fix typos)
+- [ ] Wire up DNS for permanent home (tuple.app/pair-programming-guide ?)
 - [ ] Next article button
 - [ ] Let people link directly to h2s
-- [ ] GH source link (ask folks to fix typos)
 - [ ] Maybe add subnav on right
+
