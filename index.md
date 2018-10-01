@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Tuple's Pair Programming Guide
 ---
 
 # Tuple's Pair Programming Guide
