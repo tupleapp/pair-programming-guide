@@ -25,3 +25,11 @@ It runs the above steps and then deploys.
 Configure Netlify things here:
 
 https://app.netlify.com/sites/pair-programming-guide/overview
+
+## Todos
+
+- [ ] Newsletter signup
+- [ ] Next article button
+- [ ] Let people link directly to h2s
+- [ ] GH source link (ask folks to fix typos)
+- [ ] Maybe add subnav on right
