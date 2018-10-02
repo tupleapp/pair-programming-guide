@@ -30,6 +30,8 @@ https://app.netlify.com/sites/pair-programming-guide/overview
 
 - [x] Newsletter signup
 - [x] GH source link (ask folks to fix typos)
+- [ ] Form field looks off on mobile
+- [ ] Horizontal scrolling on mobile with long title
 - [ ] Wire up DNS for permanent home (tuple.app/pair-programming-guide ?)
 - [ ] Next article button
 - [ ] Let people link directly to h2s
