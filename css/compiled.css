@@ -676,12 +676,14 @@ a:hover {
 }
 
 .content h1,
-.content h2 {
+.content h2,
+.content h3 {
   line-height: 1.25;
   color: #22292f;
 }
 
-.content h2 {
+.content h2,
+.content h3 {
   margin-top: 2.5rem;
   margin-bottom: 1rem;
 }

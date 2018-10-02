@@ -25,11 +25,13 @@ a:hover {
 }
 
 .content h1,
-.content h2 {
+.content h2,
+.content h3 {
   @apply leading-tight text-black
 }
 
-.content h2 {
+.content h2,
+.content h3 {
   @apply mt-10 mb-4
 }
 
