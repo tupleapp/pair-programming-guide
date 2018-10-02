@@ -8,7 +8,9 @@ permalink: /how-to-pair-with-a-junior-developer/
 
 <div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
 
-_This guide is written for experienced developers. If you're a junior dev, you can [subscribe below](#subscribe) to hear when we publish beginner-oriented articles.)_
+_This guide is written for experienced developers. If you're a junior dev, you
+can [subscribe below](#subscribe) to hear when we publish beginner-oriented
+articles.)_
 
 ## Understand they're scared
 
