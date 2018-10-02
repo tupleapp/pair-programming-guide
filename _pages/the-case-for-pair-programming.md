@@ -40,7 +40,7 @@ Your most important task as a developer or manager is to mitigate this slowdown.
 
 ## What slows down development?
 
-The best way to answer this is to look at what teams that ship slowly spend a lot of time doing:
+A good way to answer this is to look at what teams that ship slowly spend a lot of time doing:
 
 ### Fixing regressions
 
@@ -64,4 +64,8 @@ Slow teams are frequently distracted by meetings or pure slacking off.
 
 
 ## The good news
+
+Pair programming mitigates all of the above.
+
+
 
