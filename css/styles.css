@@ -21,11 +21,7 @@ a:hover {
 }
 
 .content p {
-  @apply my-4 font-serif
-}
-
-.content li {
-  @apply font-serif
+  @apply my-4
 }
 
 .content h1,
