@@ -21,21 +21,21 @@ It sure would be nice if software worked this way. If it did, our industry might
 
 **The biggest flaw in this model is that it leads to the conclusion that _work does not slow down over time_.**
 
-Unfortunately, reality is much more complicated.
+Unfortunately, reality disagrees.
 
 
 ## A more accurate (and depressing) model
 
 1. Our task is to build a single, extremely complicated widget.
-1. We will constantly guess wrong about how the widget should be built, requiring expensive changes.
-1. Pieces of the widget tend to interact, so each piece we add makes adding the next one harder.
+1. Adding new pieces to the widget often breaks existing pieces.
+1. Pieces tend to interact, thus each new piece makes future pieces harder to create.
 1. Bad decisions made years ago can slow today's work tremendously.
-1. Every widget assembler we add to the team slows it down.
-1. Widget assemblers are easily distracted, and are lucky to get four productive hours in per day.
 
-**Notice the unfortunate takaway: work will slow down over time.** 
+In reality, **our project is doomed to slow down over time.**
 
-Great teams slow down gradually. Bad teams slow down fast. Everyone slows down eventually.
+Great teams slow down gradually, bad teams slow down quickly, but there is no escaping this gradual drop in productivity.
+
+Your most important task as a developer or manager is to mitigate this slowdown.
 
 
 ## What slows down development?
@@ -54,21 +54,14 @@ Slow teams fail to cover all the edge cases in new functionality, and tend to di
 
 Slow teams find their projects sink to a quality level where comprehension and changes become harder than throwing everythnig away and starting again.
 
+### Fighting bad architecture
+
+Slow teams build on shaky foundations. When the architecture is discovered to be poor, they don't bite the bullet and fix it.
+
 ### Being distracted
 
-Slow teams are frequently distracted with meetings or slacking off.
+Slow teams are frequently distracted by meetings or pure slacking off.
 
 
 ## The good news
 
-Pair programming mitigates 
-
-
-
-## Bias alert
-
-Our brains are poorly-equipped to take actions that pay off over the long run at the expense of immediate pain.
-
-Everyone knows they should save for retirement, but the far-off pain of a destitute old age is dominated by the immediate reduction of disposable cash.
-
-(what's the name of this bias?)
