@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to pair with a junior developer
-permalink: /how-to-pair-with-a-junior-developer/
+permalink: /how-to-pair-with-a-junior-developer
 ---
 
 # How To Pair With A Junior Developer
