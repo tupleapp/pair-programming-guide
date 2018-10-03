@@ -8,9 +8,19 @@ permalink: /the-case-for-pair-programming
 
 <div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
 
-_tl;dr: Pair programming is worth considering because it mitigates the
-fundamental challenge of software development: the dual nature of code as an
-asset and a liability._
+_This is a guide for developers or managers who wonder if engaging in/allowing
+pair programming might be right for them._
+
+How can pair programming possibly be worth it?
+
+Admittedly, it sounds a bit ridiculous: you're going to take two programmers and have them work on the _same_ task?  Surely this will lead to less productivity than having them work on different tasks in parallel, right?
+
+
+
+
+
+
+
 
 ## The duality of code
 
