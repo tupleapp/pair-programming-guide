@@ -8,34 +8,52 @@ permalink: /the-case-for-pair-programming
 
 <div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
 
-## A naive model of software development
+_tl;dr: Pair programming is worth considering because it mitigates the
+fundamental challenge of software development: the dual nature of code as an
+asset and a liability._
 
-It is tempting, but inaccurate, to think of software development like widget assembly:
+## The duality of code
 
-1. We have a pile of widget parts.
-2. We have a team of widget assemblers.
-3. Each widget assembler can work independently, so doubling the number of widget assemblers doubles our throughput.
-5. Once a widget is constructed, we ship it out and never think of it again.
+In the normal course of events, every line of code you add to a project does two things:
 
-It sure would be nice if software worked this way. If it did, our industry might not be plagued by late projects. 
+1. Provides additional value to the project's users.
+2. Makes the project harder to maintain and add to in the future.
 
-**The biggest flaw in this model is that it leads to the conclusion that _work does not slow down over time_.**
+A codebase is simultaneously an asset that provides value and a liability that requires maintenance and consideration during future development.
 
-Unfortunately, reality disagrees.
+That last point is particularly important. Even with excellent engineering practices, it is difficult to write code that need not be considered when writing new features. 
+
+Again: every line of code we write makes the next line harder. 
+
+This brings us to an unfortunate conclusion:
 
 
-## A more accurate (and depressing) model
+## Shipping speed always slows down
 
-1. Our task is to build a single, extremely complicated widget.
-1. Adding new pieces to the widget often breaks existing pieces.
-1. Pieces tend to interact, thus each new piece makes future pieces harder to create.
-1. Bad decisions made years ago can slow today's work tremendously.
+Every project ships quickly in the beginning. 
 
-In reality, **our project is doomed to slow down over time.**
+There are no bugs to go back and fix, and very little context required to make changes.
 
-Great teams slow down gradually, bad teams slow down quickly, but there is no escaping this gradual drop in productivity.
+But soon, things get worse. 
 
-Your most important task as a developer or manager is to mitigate this slowdown.
+Bugs are discovered, changes in dependencies can force change on us, and adding new code requires understanding an ever-growing amount of context. Architectural decisions from years ago can impede current work.
+
+Features that would have flown out the door in a brand new app can become death-marches.
+
+Thus, our job as developers and managers is to maximize the value our code generates while minimizing its future costs.
+
+Pair programming is particularly useful as a tool to accomplish the latter.
+
+
+## How pair programming helps
+
+### Fewer bugs
+
+The easiest time to catch a bug is seconds after you wrote it.
+
+I
+
+
 
 
 ## What slows down development?
