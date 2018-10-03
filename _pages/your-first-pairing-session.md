@@ -10,6 +10,8 @@ permalink: /your-first-pairing-session
 
 ## Coming soon!
 
+Ah, sorry about that. This is actually just a stub for now.
+
 Want to hear when we publish it?
 
 <form id="subscribe" action="https://www.getdrip.com/forms/575249342/submissions" method="post" data-drip-embedded-form="575249342"

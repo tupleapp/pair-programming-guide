@@ -32,58 +32,29 @@ Investing in higher-quality code through pair programming leads to a better code
 
 The best way to answer this is to look at what teams that ship slowly spend a lot of time doing:
 
-#### Fixing regressions
+* **Fixing regressions.** Slow teams often break previously-working features.
 
-Slow teams often break previously-working features.
+* **Fixing fresh bugs.** Slow teams fail to cover all the edge cases in new functionality, and tend to discover them once they're "done" and in production.
 
-#### Fixing fresh bugs
+* **Rewrites.** Slow teams find their projects sink to a quality level where comprehension and changes become harder than throwing everything away and starting again.
 
-Slow teams fail to cover all the edge cases in new functionality, and tend to discover them once they're "done" and in production.
+* **Fighting bad architecture.** Slow teams build on shaky foundations. When the architecture is discovered to be poor, they don't bite the bullet and fix it.
 
-#### Rewrites
-
-Slow teams find their projects sink to a quality level where comprehension and changes become harder than throwing everything away and starting again.
-
-#### Fighting bad architecture
-
-Slow teams build on shaky foundations. When the architecture is discovered to be poor, they don't bite the bullet and fix it.
-
-#### Being distracted
-
-Slow teams are frequently distracted by meetings or pure slacking off.
-
+* **Being distracted.** Slow teams are frequently distracted by meetings or pure slacking off.
 
 ### How can pair programming help?
 
-#### Regressions
+* **Regressions.** Regressions are preventable with a good test suite. Most folks know they should be writing tests, but don't do it consistently. In a pair, the level of testing trends towards the maximum of the two developers involved.
 
-Regressions are preventable with a good test suite.
+* **Fixing fresh bugs.** Bugs tend to hide in unconsidered edge cases. In a pair, one developer is explicitly tasked with thinking about these edge cases while the other types. This makes more likely to be found than during a later code review when the context is less available.
 
-Most folks know they should be writing tests, but don't do it consistently.
+* **Rewrites.** This might still happen, but with a higher quality bar, it'll take longer.
 
-In a pair, the level of testing trends towards the maximum of the two developers involved.
+* **Fighting bad architecture.** When every architectural decision is automatically considered by two people, teams will tend to find superior solutions.
 
-#### Fixing fresh bugs
-
-Bugs tend to hide in unconsidered edge cases.
-
-In a pair, one developer is explicitly tasked with thinking about these edge cases while the other types.
-
-This makes more likely to be found than during a later code review when the context is less available.
-
-#### Rewrites
-
-This might still happen, but with a higher quality bar, it'll take longer.
-
-#### Fighting bad architecture
-
-When every architectural decision is automatically considered by two people, teams will tend to find superior solutions.
-
-#### Being distracted
-
-Nothing like a person at your desk to break your Twitter habit.
+* **Being distracted.** Nothing like a person at your desk to break your Twitter habit.
 
 
-### How can we start?
+### How should we try out pairing?
 
 Check out our guide on [your first pairing session](your-first-pairing-session).
