@@ -30,6 +30,7 @@ https://app.netlify.com/sites/pair-programming-guide/overview
 
 - [x] Newsletter signup
 - [x] GH source link (ask folks to fix typos)
+- [ ] Make sidebar wider (and constant width) so wrapping is better
 - [ ] Form field looks off on mobile
 - [ ] Horizontal scrolling on mobile with long title
 - [ ] Wire up DNS for permanent home (tuple.app/pair-programming-guide ?)
