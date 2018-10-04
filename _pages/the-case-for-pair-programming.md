@@ -36,25 +36,27 @@ The best way to answer this is to look at what teams that ship slowly spend a lo
 
 * **Fixing fresh bugs.** Slow teams fail to cover all the edge cases in new functionality, and tend to discover them once they're "done" and in production.
 
-* **Rewrites.** Slow teams find their projects sink to a quality level where comprehension and changes become harder than throwing everything away and starting again.
-
 * **Fighting bad architecture.** Slow teams build on shaky foundations. When the architecture is discovered to be poor, they don't bite the bullet and fix it.
 
-* **Being distracted.** Slow teams are frequently distracted by meetings or pure slacking off.
+* **Rewrites.** Slow teams find their projects sink to a quality level where comprehension and changes become harder than throwing everything away and starting again.
+
+* **Being distracted.** Slow teams are frequently distracted by meetings and social media.
 
 ### How can pair programming help?
 
 * **Regressions.** Regressions are preventable with a good test suite. Most folks know they should be writing tests, but don't do it consistently. In a pair, the level of testing trends towards the maximum of the two developers involved.
 
-* **Fixing fresh bugs.** Bugs tend to hide in unconsidered edge cases. In a pair, one developer is explicitly tasked with thinking about these edge cases while the other types. This makes more likely to be found than during a later code review when the context is less available.
-
-* **Rewrites.** This might still happen, but with a higher quality bar, it'll take longer.
+* **Fixing fresh bugs.** Bugs tend to hide in unconsidered edge cases. In a pair, one developer is explicitly tasked with thinking about these edge cases while the other types, increasing the chances they're handled properly.
 
 * **Fighting bad architecture.** When every architectural decision is automatically considered by two people, teams will tend to find superior solutions.
 
-* **Being distracted.** Nothing like a person at your desk to break your Twitter habit.
+* **Rewrites.** This might still happen, but with a higher quality bar, it'll take longer.
+
+* **Being distracted.** Nothing like a person at your desk to break your Twitter habit. 
 
 
-### How should we try out pairing?
+### How should we get started?
 
 Check out our guide on [your first pairing session](your-first-pairing-session).
+
+{% include article-footer.html %}

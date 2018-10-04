@@ -3821,8 +3821,8 @@ a:hover {
   min-width: 0;
 }
 
-.min-w-16 {
-  min-width: 16rem;
+.min-w-40 {
+  min-width: 40rem;
 }
 
 .min-w-full {
@@ -9414,8 +9414,8 @@ a:hover {
     min-width: 0;
   }
 
-  .sm\:min-w-16 {
-    min-width: 16rem;
+  .sm\:min-w-40 {
+    min-width: 40rem;
   }
 
   .sm\:min-w-full {
@@ -14992,8 +14992,8 @@ a:hover {
     min-width: 0;
   }
 
-  .md\:min-w-16 {
-    min-width: 16rem;
+  .md\:min-w-40 {
+    min-width: 40rem;
   }
 
   .md\:min-w-full {
@@ -20570,8 +20570,8 @@ a:hover {
     min-width: 0;
   }
 
-  .lg\:min-w-16 {
-    min-width: 16rem;
+  .lg\:min-w-40 {
+    min-width: 40rem;
   }
 
   .lg\:min-w-full {
@@ -26148,8 +26148,8 @@ a:hover {
     min-width: 0;
   }
 
-  .xl\:min-w-16 {
-    min-width: 16rem;
+  .xl\:min-w-40 {
+    min-width: 40rem;
   }
 
   .xl\:min-w-full {
