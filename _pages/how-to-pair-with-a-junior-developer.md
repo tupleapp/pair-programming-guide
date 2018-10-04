@@ -21,7 +21,7 @@ This can happen even if you're extremely friendly, or have known each other a lo
 Assume your pair is at least a bit nervous.
 
 
-## Realize fear makes you dumb
+## Realize fear disrupts thinking
 
 A nervous person is primed for physical action, not careful logic.
 
@@ -43,12 +43,32 @@ Yes, you could probably complete this task faster on your own.
 
 If you've chosen to pair on it, it's because you are wisely prioritizing your junior's future productivity. Over the long term, leveling up a team member is worth more than completing today's task.  
 
-If you're under too much time pressure to slow down to your pair's level, don't pair.
+You're likely to learn from this experience as well. If you take your pair's questions seriously, you might find yourself discovering holes in your knowledge, or uncovering assumptions you didn't know you had.
+
+If you're under too much pressure to prioritize this learning, don't pair.
 
 
-## Let them drive (most of the time)
+## Share the driving
 
-If you drive, it's hard not to move too fast. Your pair won't want to tell you that they're not keeping up.
+Shoot for an even division of driving responsibilities.
+
+When you drive, don't move too fast. Your pair won't want to tell you that they're not keeping up. Consider using the mouse even if you know a shortcut so they can follow better.
+
+You should constantly be narrating your actions and sharing your thought processes. Teach them how you think about problems.
+
+
+## Don't over-optimize
+
+Don't go nuts telling them how to accomplish tasks faster (via editor shortcuts, shell aliases, and the like).
+
+Spend most of the session observing them patiently and share only the tip or two most likely to provide a payoff.
+
+
+## Avoid definitive language
+
+Don't say someone should "always" or "never" do something. Share the tradeoffs of each approach.
+
+Never justify a decision by saying it's a best practice. Talk about the elements make it a good fit for your situation.
 
 
 ## Ask questions
