@@ -16,7 +16,7 @@ title: Tuple's Pair Programming Guide
 
 The aim of this site is to be the best guide on the internet for folks who want to pair program thoughtfully.
 
-If any part of the site falls short of this goal, please [open an issue](https://github.com/tupleapp/pair-programming-guide). 
+If any part of the site falls short of this goal, please [open an issue](https://github.com/tupleapp/pair-programming-guide/issues/new). 
 
 ## Where to start
 
