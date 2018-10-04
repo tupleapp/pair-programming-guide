@@ -6,7 +6,7 @@
   },
 
   "scripts": {
-    "build": "postcss css/styles.css -o css/compiled.css",
-    "watch": "postcss css/styles.css -o css/compiled.css --watch"
+    "build": "postcss css/styles.css -o css/pairing-guide-compiled.css",
+    "watch": "postcss css/styles.css -o css/pairing-guide-compiled.css --watch"
   }
 }
