@@ -12,7 +12,19 @@ _This guide is written for experienced developers. If you're a junior dev, you
 can [subscribe below](#subscribe) to hear when we publish beginner-oriented
 articles.)_
 
-## Understand they're scared
+
+## Prioritize learning over productivity
+
+Yes, you could probably complete this task faster on your own.
+
+If you've chosen to pair on it, it's because you are wisely prioritizing your junior's future productivity. Over the long term, leveling up a team member is worth more than completing today's task.  
+
+You're likely to learn from this experience as well. If you take your pair's questions seriously, you might find yourself discovering holes in your knowledge, or uncovering assumptions you didn't know you had.
+
+If you're under too much pressure to prioritize this learning, don't pair.
+
+
+## Understand they're probably nervous
 
 Most people find it intimidating to pair with someone with more experience. 
 
@@ -36,16 +48,6 @@ If you get frustrated or bored, its your duty to hide this fact as best you can.
 
 Never drum your fingers on the desk.
 
-
-## Prioritize learning over productivity
-
-Yes, you could probably complete this task faster on your own.
-
-If you've chosen to pair on it, it's because you are wisely prioritizing your junior's future productivity. Over the long term, leveling up a team member is worth more than completing today's task.  
-
-You're likely to learn from this experience as well. If you take your pair's questions seriously, you might find yourself discovering holes in your knowledge, or uncovering assumptions you didn't know you had.
-
-If you're under too much pressure to prioritize this learning, don't pair.
 
 
 ## Share the driving
