@@ -8,13 +8,13 @@ permalink: /lesser-known-benefits-of-pair-programming
 
 <div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
 
-### Coworkers are less likely to interrupt you
+### Coworkers interrupt less
 
-There's something about seeing two folks in conversation at a workstation that discourages interruptions.
+There's something about two devs in conversation that discourages interruptions.
 
-### It's easier to stay in flow because the context is in two heads
+### Flow is easier to recover
 
-If you do get interrupted, one person can stay in a flow state, and quickly bring the other back in.
+If one of you is interrupted, the other can remain in a flow state, and quickly bring you back in.
 
 ### You'll be happier
 
@@ -30,4 +30,4 @@ RSI is no joke. It can end careers.
 
 Pairing lets you share the typing and put fewer miles on your tissues.
 
-<p class="text-sm pt-8 italic">P.S. Have you thought of a benefit that's not mentioned here? Please <a href="https://github.com/tupleapp/pair-programming-guide/issues/new">open an issue</a>.</p>
+<p class="text-sm pt-8 italic">P.S. Have you experienced a lesser-known benefit that's not mentioned here? I'd love to hear it! Please <a href="https://github.com/tupleapp/pair-programming-guide/issues/new">open an issue</a>.</p>
