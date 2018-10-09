@@ -8,6 +8,8 @@ permalink: /links
 
 <div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
 
+We didn't write these guides, but you should read them anyway.
+
 ## [The Art of Agile Development: Pair Programming](https://www.jamesshore.com/Agile-Book/pair_programming.html)
 
 _by James Shore_ 
