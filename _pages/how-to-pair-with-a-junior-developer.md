@@ -2,6 +2,7 @@
 layout: default
 title: How to pair with a junior developer
 permalink: /how-to-pair-with-a-junior-developer
+meta: Tips for experienced developers who pair program with newer devs.
 ---
 
 # How To Pair With A Junior Developer

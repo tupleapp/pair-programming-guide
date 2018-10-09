@@ -2,6 +2,7 @@
 layout: default
 title: Lesser-Known Benefits of Pair Programming
 permalink: /lesser-known-benefits-of-pair-programming
+meta: A list of pair programming benefits you might not have considered before.
 ---
 
 # {{ page.title }}

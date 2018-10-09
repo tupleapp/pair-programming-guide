@@ -2,6 +2,7 @@
 layout: default
 title: Your First Pairing Session
 permalink: /your-first-pairing-session
+meta: How to make your first pair programming session a success.
 ---
 
 # Your First Pairing Session

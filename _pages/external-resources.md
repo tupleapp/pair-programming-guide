@@ -2,6 +2,7 @@
 layout: default
 title: Great External Resources
 permalink: /links
+meta: A collection of links to high-quality writing about pair programming on the web
 ---
 
 # Great External Resources
