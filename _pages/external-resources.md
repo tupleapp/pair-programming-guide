@@ -2,7 +2,7 @@
 layout: default
 title: Great External Resources
 permalink: /links
-meta: A collection of links to high-quality writing about pair programming on the web
+meta: A collection of links to high-quality writing (and podcasts) about pair programming.
 ---
 
 # Great External Resources
@@ -83,4 +83,17 @@ The five rules:
 > 1. Bestow as many compliments as possible
 
 I find the first rule least compelling of the bunch, but the remainder are great.
+
+
+## [The Art of Pairing](http://www.fullstackradio.com/94)
+
+Yours truly, on the Full Stack Radio podcast.
+
+> Topics covered:
+> 
+> * The benefits of pairing with someone more experienced than you
+> * The benefits of pairing with someone less experienced than you
+> * How pairing helps you build things faster
+> * Why pairing often removes the need for code review
+> * How to get started with pairing if you've never done it before
 
