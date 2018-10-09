@@ -688,6 +688,15 @@ a:hover {
   margin-bottom: 1rem;
 }
 
+.content blockquote {
+  position: relative;
+  padding-left: .75rem;
+  border-left-width: 2px;
+  border-color: #5661b3;
+  font-weight: 200;
+  margin-top: .75rem;
+}
+
 .list-reset {
   list-style: none;
   padding: 0;
