@@ -28,9 +28,6 @@ https://app.netlify.com/sites/pair-programming-guide/overview
 
 ## Todos
 
-- [ ] Form field looks off on mobile
-- [ ] Horizontal scrolling on mobile with long title
 - [ ] Next article button
 - [ ] Let people link directly to h2s
 - [ ] Maybe add subnav on right
-
