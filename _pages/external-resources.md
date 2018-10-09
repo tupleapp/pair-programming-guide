@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Great External Resources
+title: Good Resources Elsewhere
 permalink: /links
 meta: A collection of links to high-quality writing (and podcasts) about pair programming.
 ---
