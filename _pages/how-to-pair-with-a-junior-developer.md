@@ -87,5 +87,3 @@ Admit when you don't know. Show them how to look it up.
 Admit when you're stuck. Show them how you get unblocked.
 
 Admit when you're tired. Show them the worthiness of breaks.
-
-{% include article-footer.html %}

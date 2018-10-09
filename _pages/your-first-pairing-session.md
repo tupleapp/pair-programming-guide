@@ -13,5 +13,3 @@ permalink: /your-first-pairing-session
 Ah, sorry about that! This is actually just a stub for now. If you want to hear when we publish it, just drop your email in the box below.
 
 Thanks!
-
-{% include article-footer.html %}

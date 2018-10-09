@@ -14,18 +14,10 @@ title: Tuple's Pair Programming Guide
 
 ## Our goal
 
-The aim of this site is to be the best guide on the internet for folks who want to pair program thoughtfully.
+The aim of this site is to be the best and most comprehensive guide on the internet for folks who want to pair program well.
 
-If any part of the site falls short of this goal, please [open an issue](https://github.com/tupleapp/pair-programming-guide/issues/new). 
+If there's something you'd like us to cover, or some way the site could be better, please [open an issue](https://github.com/tupleapp/pair-programming-guide/issues/new).  
 
 ## Where to start
 
-Click something interesting in the navigation to the left (or behind the hamburger on mobile).
-
-## Hear when we write more
-
-If you'd like to know when we add content to this site, subscribe here:
-
-<div class="mt-8">
-  {% include subscribe-box.html %}
-</div>
+Click something interesting in the navigation to the left (or within the hamburger on mobile).
