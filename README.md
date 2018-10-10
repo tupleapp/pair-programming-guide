@@ -31,3 +31,9 @@ https://app.netlify.com/sites/pair-programming-guide/overview
 - [ ] Next article button
 - [ ] Let people link directly to h2s
 - [ ] Maybe add subnav on right
+
+
+## Content ideas
+
+- Case studies of companies who started pairing
+- Link pairprogramwith.me
