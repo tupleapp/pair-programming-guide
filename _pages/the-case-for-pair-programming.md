@@ -33,11 +33,11 @@ Investing in higher-quality code through pair programming leads to a better code
 
 The best way to answer this is to look at what teams that ship slowly spend a lot of time doing:
 
-* **Fixing regressions.** Slow teams often break previously-working features.
+* **Fixing regressions.** Slow teams often break previously-working features (without noticing it).
 
 * **Fixing fresh bugs.** Slow teams fail to cover all the edge cases in new functionality, and tend to discover them once they're "done" and in production.
 
-* **Fighting bad architecture.** Slow teams build on shaky foundations. When the architecture is discovered to be poor, they don't bite the bullet and fix it.
+* **Fighting bad architecture.** Slow teams build on shaky foundations. When the architecture is discovered to be poor, they don't bite the bullet and fix it. 
 
 * **Rewrites.** Slow teams find their projects sink to a quality level where comprehension and changes become harder than throwing everything away and starting again.
 
@@ -51,7 +51,7 @@ The best way to answer this is to look at what teams that ship slowly spend a lo
 
 * **Fighting bad architecture.** When every architectural decision is automatically considered by two people, teams will tend to find superior solutions.
 
-* **Rewrites.** This might still happen, but with a higher quality bar, it'll take longer.
+* **Rewrites.** This might still happen, but with a higher quality bar, it'll be longer before it's necessary.
 
 * **Being distracted.** Nothing like a person at your desk to break your Twitter habit. 
 
