@@ -6,18 +6,28 @@ layout: default
 title: Tuple's Pair Programming Guide
 ---
 
-# Tuple's Pair Programming Guide
+# Tuple's Pair Programming Guide (wip)
 
 <p class="text-lg">Tips, tutorials, and resources for thoughtful pair programmers</p>
 
 <div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
 
-## Our goal
+## The goal
 
-The aim of this site is to be a comprehensive guide on the internet for folks who want to pair program well. 
+To be a _comprehensive_ guide for thoughtful programmers who care about pairing well. 
 
-If you need to go elsewhere for additional info, that's us failing. Please [open an issue](https://github.com/tupleapp/pair-programming-guide/issues/new) and let us know what we should add.  
+If this guide isn't sufficiently awesome, or you need to go elsewhere for additional info, **that's a bug**. Please [open an issue](https://github.com/tupleapp/pair-programming-guide/issues/new) and let us know what we should add.  
 
 ## Where to start
 
-Click something interesting in the navigation to the left (or within the hamburger on mobile).
+<div class="hidden lg:block">
+  Click something interesting in the sidebar over there &larr;.
+</div>
+
+<div class="sm:block lg:hidden">
+  Click the hamburger up there &uarr; and find something interesting.
+</div>
+
+## You can help
+
+Help us decide what to cover next by [opening an issue](https://github.com/tupleapp/pair-programming-guide/issues/new).
