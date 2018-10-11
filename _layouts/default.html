@@ -87,4 +87,17 @@
 
     </div>
   </body>
+
+  <script>
+    window.onload = function() {
+      var headers = document.querySelectorAll('#content h2, #content h3');
+      Array.prototype.forEach.call(headers, function(el, i){
+        var headerLink = document.createElement("a")
+        headerLink.innerHTML = "🔗";
+        headerLink.href = "#" + el.id;
+        headerLink.classList = "no-underline hover:no-underline ml-4";
+        el.appendChild(headerLink);
+      });
+    }
+  </script>
 </html>
