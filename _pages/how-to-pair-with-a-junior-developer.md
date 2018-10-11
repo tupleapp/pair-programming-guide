@@ -5,9 +5,7 @@ permalink: /how-to-pair-with-a-junior-developer
 meta: Tips for experienced developers who pair program with newer devs.
 ---
 
-# How To Pair With A Junior Developer
-
-<div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
+{% include article-top.html %}
 
 _This guide is written for experienced developers. If you're a junior dev, you
 can [subscribe below](#subscribe) to hear when we publish beginner-oriented

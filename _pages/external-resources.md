@@ -5,9 +5,7 @@ permalink: /links
 meta: A collection of links to high-quality writing (and podcasts) about pair programming.
 ---
 
-# Great External Resources
-
-<div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
+{% include article-top.html %}
 
 We didn't write these guides, but you should read them anyway.
 

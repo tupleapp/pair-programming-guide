@@ -5,9 +5,7 @@ permalink: /the-case-for-pair-programming
 meta: An attempt to argue for the benefits of pair programming based on personal experience.
 ---
 
-# The Case For Pair Programming
-
-<div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
+{% include article-top.html %}
 
 ## In three sentences
 

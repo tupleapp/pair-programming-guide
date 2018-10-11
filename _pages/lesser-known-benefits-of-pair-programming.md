@@ -5,9 +5,7 @@ permalink: /lesser-known-benefits-of-pair-programming
 meta: A list of pair programming benefits you might not have considered before.
 ---
 
-# {{ page.title }}
-
-<div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
+{% include article-top.html %}
 
 ### Coworkers interrupt less
 
