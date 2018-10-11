@@ -70,3 +70,6 @@ The authors also summarize the results of the paper above:
 > punctuality to positive pressure the partners exert on each other. They admit
 > to working “harder and smarter” because they don’t want to let their partner
 > down.
+
+
+<p class="text-sm pt-10">Do you know of any research into pair programming (with positive _or_ negative results) that should appear here? Please <a href="https://github.com/tupleapp/pair-programming-guide/issues/new">open an issue</a>.</p>
