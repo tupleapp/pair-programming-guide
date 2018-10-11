@@ -29,4 +29,15 @@ RSI is no joke. It can end careers.
 
 Pairing lets you share the typing and put fewer miles on your tissues.
 
-<p class="text-sm pt-8 italic">P.S. Have you experienced a lesser-known benefit that's not mentioned here? I'd love to hear it! Please <a href="https://github.com/tupleapp/pair-programming-guide/issues/new">open an issue</a>.</p>
+### You'll default to collaboration
+
+Pairing trains you to view coding as a team sport. 
+
+When faced with a difficult task, you’ll solicit feedback before diving in.
+When you hit a roadblock you’ll reach out for help rather than stubbornly
+persisting. During code review, you’ll offer collaborative feedback rather than
+nit picks. 
+
+<p class="text-sm">Thanks to <a href="https://github.com/hugo">@hugo</a> for this section!</p>
+
+<p class="text-sm pt-10 italic">Have you experienced a lesser-known benefit that's not mentioned here? I'd love to hear it! Please <a href="https://github.com/tupleapp/pair-programming-guide/issues/new">open an issue</a>.</p>
