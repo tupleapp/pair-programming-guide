@@ -29,7 +29,6 @@ https://app.netlify.com/sites/pair-programming-guide/overview
 ## Todos
 
 - [ ] Next article button
-- [ ] Let people link directly to h2s
 - [ ] Maybe add subnav on right
 
 
