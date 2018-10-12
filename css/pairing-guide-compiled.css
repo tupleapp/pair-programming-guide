@@ -697,6 +697,13 @@ a:hover {
   margin-top: .75rem;
 }
 
+.anchorjs-link,
+.anchorjs-link:visited,
+.anchorjs-link:hover {
+  color: #b8c2cc;
+  text-decoration: none;
+}
+
 .list-reset {
   list-style: none;
   padding: 0;

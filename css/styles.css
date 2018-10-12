@@ -39,4 +39,10 @@ a:hover {
   @apply relative pl-3 border-l-2 border-indigo-dark font-thin mt-3
 }
 
+.anchorjs-link,
+.anchorjs-link:visited,
+.anchorjs-link:hover {
+  @apply text-grey no-underline
+}
+
 @tailwind utilities;
