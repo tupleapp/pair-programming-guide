@@ -12,22 +12,23 @@ title: Tuple's Pair Programming Guide
 
 <div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
 
-## The goal
+## Table of Contents
 
-To be a _comprehensive_ guide for thoughtful programmers who care about pairing well. 
+- [The Case For Pair Programming](/pair-programming-guide/the-case-for-pair-programming)
+- [Scientific Research Into Pairing](/pair-programming-guide/scientific-research-into-pair-programming)
+- [Lesser-Known Benefits of Pairing](/pair-programming-guide/lesser-known-benefits-of-pair-programming)
+- [Great External Resources](/pair-programming-guide/links)
+- [How To Pair With A Junior Dev](/pair-programming-guide/how-to-pair-with-a-junior-developer)
+
+
+## WIP
+
+- [Your First Pairing Session](/pair-programming-guide/your-first-pairing-session)
+- [Types of Pairing](/pair-programming-guide/types-of-pairing)
+
+
+## What can be better?
+
+Our goal is to make this a _comprehensive_ guide for thoughtful programmers who care about pairing well. 
 
 If this guide isn't sufficiently awesome, or you need to go elsewhere for additional info, **that's a bug**. Please [open an issue](https://github.com/tupleapp/pair-programming-guide/issues/new) and let us know what we should add.  
-
-## Where to start
-
-<div class="hidden lg:block">
-  Click something interesting in the sidebar over there &larr;.
-</div>
-
-<div class="sm:block lg:hidden">
-  Click the hamburger up there &uarr; and find something interesting.
-</div>
-
-## You can help
-
-Help us decide what to cover next by [opening an issue](https://github.com/tupleapp/pair-programming-guide/issues/new).
