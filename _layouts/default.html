@@ -87,4 +87,33 @@
 
     </div>
   </body>
+
+  <script>
+    window.onload = function() {
+      var headers = document.querySelectorAll('#content h2, #content h3');
+      Array.prototype.forEach.call(headers, function(el, i){
+        var headerLink = document.createElement("a")
+        headerLink.innerHTML = "🔗 "
+        headerLink.href = "#" + el.id;
+        headerLink.classList = "hidden absolute -ml-8 no-underline hover:no-underline ml-4";
+        el.prepend(headerLink);
+
+        el.addEventListener("mouseover", function() {
+          headerLink.classList.remove("hidden");
+        });
+
+        el.addEventListener("mouseout", function() {
+          headerLink.classList.add("hidden");
+        });
+
+        headerLink.addEventListener("mouseover", function() {
+          headerLink.classList.remove("hidden");
+        });
+
+        headerLink.addEventListener("mouseout", function() {
+          headerLink.classList.add("hidden");
+        });
+      });
+    }
+  </script>
 </html>
