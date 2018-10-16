@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Types of Pairing
-permalink: /types-of-pairing
+title: Pair Programming Styles
+permalink: /styles
 ---
 
 {% include article-top.html %}
