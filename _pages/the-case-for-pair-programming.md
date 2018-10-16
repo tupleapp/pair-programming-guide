@@ -7,6 +7,8 @@ meta: An attempt to argue for the benefits of pair programming based on personal
 
 {% include article-top.html %}
 
+_This article focuses on an argument based on the author's extensive experience with development and pairing. If you'd like to read a summary of scientific studies conducted on pair programming, check out our [Scientific Research Into Pairing](https://tuple.app/pair-programming-guide/scientific-research-into-pair-programming) article._
+
 ## In three sentences
 
 Teams tend to ship slower over time because they accumulate sub-par code that impedes their progress.
