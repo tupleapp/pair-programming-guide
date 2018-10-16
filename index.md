@@ -21,10 +21,9 @@ title: Tuple's Pair Programming Guide
 - [How To Pair With A Junior Dev](/pair-programming-guide/how-to-pair-with-a-junior-developer)
 
 
-## WIP
+## Coming soon
 
 - [Your First Pairing Session](/pair-programming-guide/your-first-pairing-session)
-- [Types of Pairing](/pair-programming-guide/types-of-pairing)
 
 
 ## What can be better?
