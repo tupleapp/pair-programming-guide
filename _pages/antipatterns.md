@@ -59,7 +59,7 @@ A good question: "Which part of this is hardest to follow?"
 
 ### Unequal screen access
 
-Sit so that the monitor is __between__ the two of you. Make sure both of you can see it equally well.
+Sit so that the monitor is __between__ the two of you. Make sure both of you can see it equally well (consider bumping up font sizes).
 
 If one person is tucked off to the side, it will create a subconscious unequal hierarchy.
 
