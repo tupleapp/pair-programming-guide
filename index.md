@@ -19,6 +19,7 @@ title: Tuple's Pair Programming Guide
 - [Lesser-Known Benefits of Pairing](/pair-programming-guide/lesser-known-benefits-of-pair-programming)
 - [Great External Resources](/pair-programming-guide/links)
 - [How To Pair With A Junior Dev](/pair-programming-guide/how-to-pair-with-a-junior-developer)
+- [Styles of Pairing](/pair-programming-guide/styles)
 
 
 ## Coming soon
