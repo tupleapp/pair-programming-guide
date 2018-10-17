@@ -31,7 +31,7 @@ If that fails, ask to drive for a bit to get your idea sketched out.
 
 Bring your own keyboard to every pairing session. Plug it in before you start.
 
-This makes swapping roles easier, and allows you to to show rather than tell when words fail.
+This makes swapping roles easier and allows you to show rather than tell when words fail.
 
 
 ## For drivers:
