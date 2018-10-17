@@ -7,6 +7,10 @@ meta: What you shouldn't do when pair programming.
 
 {% include article-top.html %}
 
+It's possible to pair well simply by avoiding pairing poorly. 
+
+Stay away from these common mistakes and you'll up your chances of success.
+
 ## For navigators:
 
 ### Leaping on errors too quickly
