@@ -22,6 +22,7 @@ title: Tuple's Pair Programming Guide
 - [Great External Resources](/pair-programming-guide/links)
 - [How To Pair With A Junior Dev](/pair-programming-guide/how-to-pair-with-a-junior-developer)
 - [Styles of Pairing](/pair-programming-guide/styles)
+- [Pairing Antipatterns](/pair-programming-guide/antipatterns)
 
 ### Videos
 
