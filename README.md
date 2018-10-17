@@ -36,3 +36,7 @@ https://app.netlify.com/sites/pair-programming-guide/overview
 
 - Case studies of companies who started pairing
 - Link pairprogramwith.me
+- Pairing in an interview (advice for both sides)
+- KeyCastr
+- Pairing antipatterns
+- Zero to pairing
