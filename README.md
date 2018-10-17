@@ -28,8 +28,7 @@ https://app.netlify.com/sites/pair-programming-guide/overview
 
 ## Todos
 
-- [ ] Next article button
-- [ ] Maybe add subnav on right
+- [ ] Get meta descriptions into twitter card previews
 
 
 ## Content ideas
