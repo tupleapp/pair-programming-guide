@@ -37,6 +37,5 @@ https://app.netlify.com/sites/pair-programming-guide/overview
 - Link pairprogramwith.me
 - Pairing in an interview (advice for both sides)
 - KeyCastr
-- Pairing antipatterns
 - Zero to pairing
 - TWI vids of pairing

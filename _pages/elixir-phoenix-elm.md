@@ -16,4 +16,4 @@ At the time, I had a small amount of Elm experience, and virtually none with Eli
 
 I think this video does a nice job of demoing how to contribute as a navigator when you're less familiar with the code being worked on.
 
-Sadly, this was recorded before [Tuple](https://tuple.app) was a thing, so we had to use Skype. This led to me dictating code at some points, which is a bit of an  [antipattern](/pair-programming-guide/antipatterns).
+Sadly, this was recorded before [Tuple](https://tuple.app) was a thing, so we had to use Skype. This led to me dictating code at some points, which is a bit of an  [antipattern](/pair-programming-guide/antipatterns#giving-low-level-instructions).
