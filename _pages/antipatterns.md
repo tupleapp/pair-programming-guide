@@ -17,7 +17,7 @@ Stay away from these common mistakes and you'll up your chances of success.
 
 Give your driver a chance to notice their own syntax errors and typos. 
 
-Constantly pointing out small errors hurts flow. Yours _and_ theirs.
+Constantly pointing out small errors hurts flow. Yours _and_ theirs. It may also make your pair self-conscious.
 
 Remember: your job is to consider the bigger picture, not to point out misspelled words as soon as you spot them.
 
@@ -36,6 +36,8 @@ If that fails, ask to drive for a bit to get your idea sketched out.
 Bring your own keyboard to every pairing session. Plug it in before you start.
 
 This makes swapping roles easier and allows you to show rather than tell when words fail.
+
+Having your own mouse is nice too, but not as essential. (It's easy to ask someone to click on something, harder to get them to type many characters.)
 
 
 ## For drivers:
@@ -84,7 +86,7 @@ If your navigator is making a suggestion, consider taking your hands off the key
 
 ## For both:
 
-### Allowing distractions
+### Allowing unproductive distractions
 
 Before you start pairing, disable all notifications (on your computer _and_ phone). 
 
@@ -101,7 +103,7 @@ Driving and navigating are draining for different reasons.
 
 Swapping roles lets you rest the tired parts of your brain and activate the idle ones.
 
-Swapping drivers is a great way to energize a pairing session that's losing steam.
+Swapping drivers is a great way to energize a pairing session that's losing steam. Consider setting a timer to indicate every time it's time to switch.
 
 ### Forgetting it's a skill
 
@@ -110,3 +112,5 @@ Pair programming is a skill which must be learned.
 You will not be good at it at first, but consistent practice will yield improvements.
 
 Don't give up after a difficult first experience. Don't assume experienced developers are automatically good pairing partners. Don't expect to be good without practice.
+
+Consider reflecting with your pair or asking for feedback after each session. What could have been better?
