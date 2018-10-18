@@ -14,6 +14,8 @@ title: Tuple's Pair Programming Guide
 
 ## Table of Contents
 
+### Articles
+
 - [The Case For Pair Programming](/pair-programming-guide/the-case-for-pair-programming)
 - [Scientific Research Into Pairing](/pair-programming-guide/scientific-research-into-pair-programming)
 - [Lesser-Known Benefits of Pairing](/pair-programming-guide/lesser-known-benefits-of-pair-programming)
@@ -21,6 +23,10 @@ title: Tuple's Pair Programming Guide
 - [How To Pair With A Junior Dev](/pair-programming-guide/how-to-pair-with-a-junior-developer)
 - [Styles of Pairing](/pair-programming-guide/styles)
 
+### Videos
+
+- [Pairing on Elixir, Phoenix, and Elm](/pair-programming-guide/elixir-phoenix-elm)
+- [TDD Ping-Pong in Ruby](/pair-programming-guide/tdd-ping-pong-ruby)
 
 ## Coming soon
 
