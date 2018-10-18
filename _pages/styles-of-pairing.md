@@ -18,6 +18,8 @@ Don't forget to switch roles regularly.
 
 _(Coming soon: guides on driving and navigating well.)_
 
+To see this style in action, check out [Coding Elixir, Phoenix, and Elm](/pair-programming-guide/elixir-phoenix-elm).
+
 ## Ping pong
 
 This is a great option if you and your pair practice TDD.
@@ -38,6 +40,8 @@ Three recommendations:
 1. Sometimes it will take much longer to write the test than the code that makes it passes, or vice-versa. Don't worry about it. Time spent typing will even out over time.
 2. Try to write a _minimal_ failing test, and the _smallest_ amount of code that will make it pass. This is easy to forget in the moment.
 3. Don't forget to spend some time refactoring when things are green.
+
+Want to see this style in action? Check out [TDD Ping-Pong Pairing](/pair-programming-guide/tdd-ping-pong).
 
 ## Strong style
 

@@ -39,3 +39,4 @@ https://app.netlify.com/sites/pair-programming-guide/overview
 - KeyCastr
 - Pairing antipatterns
 - Zero to pairing
+- TWI vids of pairing
