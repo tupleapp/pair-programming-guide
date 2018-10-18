@@ -18,7 +18,7 @@ Don't forget to switch roles regularly.
 
 _(Coming soon: guides on driving and navigating well.)_
 
-To see this style in action, check out [Coding Elixir, Phoenix, and Elm](/pair-programming-guide/elixir-phoenix-elm).
+To see this style in action, check out [Pairing On Elixir, Phoenix, and Elm](/pair-programming-guide/elixir-phoenix-elm).
 
 ## Ping pong
 
