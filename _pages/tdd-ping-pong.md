@@ -2,6 +2,7 @@
 layout: default
 title: TDD Ping-Pong in Ruby
 permalink: /tdd-ping-pong-ruby
+meta: A video of an in-person pairing session with two Ruby devs alternating roles in the TDD process.
 ---
 
 {% include article-top.html %}
