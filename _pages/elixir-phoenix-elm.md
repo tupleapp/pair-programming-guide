@@ -2,6 +2,7 @@
 layout: default
 title: Pairing on Elixir, Phoenix, Elm, and GraphQL
 permalink: /elixir-phoenix-elm
+meta: A video of a remote pairing session featuring Elixir, Phoenix, Elm, and GraphQL.
 ---
 
 {% include article-top.html %}
