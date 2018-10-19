@@ -6,6 +6,8 @@ permalink: /tdd-ping-pong-ruby
 
 {% include article-top.html %}
 
+**Video link: [Ping-pong Paired Programming](https://thoughtbot.com/upcase/videos/ping-pong-paired-programing)**
+
 Several years ago, I recorded an in-person pairing session with thoughtbot CTO [Joe Ferris](https://twitter.com/joeferris).
 
 In it, we use the [ping-pong pairing technique](/pair-programming-guide/styles) to code a feature in Ruby, tested with the [RSpec](http://rspec.info/) library.
@@ -19,6 +21,3 @@ Highlights:
 - At 18:26, Joe shows off a clever way of testing that an object delegates to another.
 - At 23:41, I discuss why pointing out typos right away as the navigator is an [antipattern](/pair-programming-guide/antipatterns#leaping-on-errors-too-quickly).
 - At 30:54, we get stuck! This is a great opportunity to see two devs explore their way out of a surprising problem.
-
-**Check it out: [Ping-pong Paired Programming](https://thoughtbot.com/upcase/videos/ping-pong-paired-programing)**
-
