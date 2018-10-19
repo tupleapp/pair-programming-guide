@@ -7,7 +7,7 @@ meta: A video of an in-person pairing session with two Ruby devs alternating rol
 
 {% include article-top.html %}
 
-**Video link: [Ping-pong Paired Programming](https://thoughtbot.com/upcase/videos/ping-pong-paired-programing)**
+**[Watch the video](https://thoughtbot.com/upcase/videos/ping-pong-paired-programing)**
 
 Several years ago, I recorded an in-person pairing session with thoughtbot CTO [Joe Ferris](https://twitter.com/joeferris).
 
