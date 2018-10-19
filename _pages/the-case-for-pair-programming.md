@@ -2,7 +2,7 @@
 layout: default
 title: The Case for Pair Programming
 permalink: /the-case-for-pair-programming
-meta: An attempt to argue for the benefits of pair programming based on personal experience.
+meta: An attempt to argue for the benefits of pair programming based on extensive personal experience.
 ---
 
 {% include article-top.html %}
