@@ -7,7 +7,12 @@ meta: A video of an in-person pairing session with two Ruby devs alternating rol
 
 {% include article-top.html %}
 
-**[Watch the video](https://thoughtbot.com/upcase/videos/ping-pong-paired-programing)**
+<p class="py-6">
+  <a href="https://thoughtbot.com/upcase/videos/ping-pong-paired-programing?wvideo=yiuj1c2zib">
+    <img src="https://embedwistia-a.akamaihd.net/deliveries/2d97b2e123976b89ea0cce40a31b41360f829350.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=4291e6e0" width="400" height="225" style="width: 400px; height: 225px;">
+  </a>
+</p>
+
 
 Several years ago, I recorded an in-person pairing session with thoughtbot CTO [Joe Ferris](https://twitter.com/joeferris).
 
