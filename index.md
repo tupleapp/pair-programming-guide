@@ -29,6 +29,10 @@ title: Tuple's Pair Programming Guide
 - [Pairing on Elixir, Phoenix, and Elm](/pair-programming-guide/elixir-phoenix-elm)
 - [TDD Ping-Pong in Ruby](/pair-programming-guide/tdd-ping-pong-ruby)
 
+### Audio
+
+- [The Art of Pairing](/pair-programming-guide/full-stack-radio-podcast)
+
 ## Coming soon
 
 - [Your First Pairing Session](/pair-programming-guide/your-first-pairing-session)
