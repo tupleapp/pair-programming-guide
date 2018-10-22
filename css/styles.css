@@ -45,4 +45,8 @@ a:hover {
   @apply text-grey no-underline
 }
 
+.content a {
+  @apply text-indigo-darker
+}
+
 @tailwind utilities;

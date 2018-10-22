@@ -26,10 +26,6 @@ Configure Netlify things here:
 
 https://app.netlify.com/sites/pair-programming-guide/overview
 
-## Todos
-
-- [ ] Get meta descriptions into twitter card previews
-
 
 ## Content ideas
 
@@ -38,4 +34,4 @@ https://app.netlify.com/sites/pair-programming-guide/overview
 - Pairing in an interview (advice for both sides)
 - KeyCastr
 - Zero to pairing
-- TWI vids of pairing
+- Mobbing (add to styles article)

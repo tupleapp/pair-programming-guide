@@ -704,6 +704,10 @@ a:hover {
   text-decoration: none;
 }
 
+.content a {
+  color: #2f365f;
+}
+
 .list-reset {
   list-style: none;
   padding: 0;

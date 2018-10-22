@@ -17,6 +17,7 @@ title: Tuple's Pair Programming Guide
 ### Articles
 
 - [The Case For Pair Programming](/pair-programming-guide/the-case-for-pair-programming)
+- [Your First Pairing Session](/pair-programming-guide/your-first-pairing-session)
 - [Scientific Research Into Pairing](/pair-programming-guide/scientific-research-into-pair-programming)
 - [Lesser-Known Benefits of Pairing](/pair-programming-guide/lesser-known-benefits-of-pair-programming)
 - [Great External Resources](/pair-programming-guide/links)
@@ -32,10 +33,6 @@ title: Tuple's Pair Programming Guide
 ### Audio
 
 - [The Art of Pairing](/pair-programming-guide/full-stack-radio-podcast)
-
-## Coming soon
-
-- [Your First Pairing Session](/pair-programming-guide/your-first-pairing-session)
 
 
 ## What can be better?
