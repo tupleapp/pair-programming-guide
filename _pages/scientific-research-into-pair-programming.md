@@ -6,6 +6,22 @@ permalink: /scientific-research-into-pair-programming
 
 {% include article-top.html %}
 
+Regrettably, there's not much. But here are the papers worth reading and sharing.
+
+## [The Costs and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
+
+The paper covers much of the existing research (and research-like artifacts, such as surveys).
+
+From their abstract:
+
+> Using interviews and controlled experiments, the authors investigated the
+> costs and benefits of pair programming. They found that for a
+> development-time cost of about 15%, pair programming improves design quality,
+> reduces defects, reduces staffing risk, enhances technical skills, improves
+> team communications and is considered more enjoyable at statistically
+> significant levels.
+
+
 ## [The Case for Collaborative Programming](https://www.researchgate.net/publication/27295641_The_Case_for_Collaborative_Programming)
 
 _Nosek, J. T. (1998)_
@@ -53,15 +69,20 @@ _Wiliams, L. A. (2000)_
 > cycle time, and quality of the two groups have been compared. **Empirical
 > results point in favor of the collaborative teams [&hellip;].**
 
+One key finding: the pairs took 15% more developer hours to produce their
+solutions, but those solutions had 15% fewer bugs. 
+
 
 ## [Strengthening the Case for Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/ieeeSoftware.PDF)
 
 _Williams, Kessler, Cunningham, Jeffries_
 
-An easy read that summarizes some of the research above, as well as providing
-supporting anecdotes from industry veterans.
+An easy read paper that summarizes some of the research above, as well as
+providing supporting anecdotes from industry veterans.
 
-The authors also summarize the results of the paper above:
+The authors also summarize the results of the paper just above, [The
+Collaborative Software
+Process](/pair-programming-guide/scientific-research-into-pair-programming#the-collaborative-software-process):
 
 > The pairs always passed more of the automated post-development test cases.
 > Their results were also more consistent, while the individuals varied more
@@ -72,4 +93,4 @@ The authors also summarize the results of the paper above:
 > down.
 
 
-<p class="text-sm pt-10">Do you know of any research into pair programming (with positive _or_ negative results) that should appear here? Please <a href="https://github.com/tupleapp/pair-programming-guide/issues/new">open an issue</a>.</p>
+<p class="text-sm pt-10">Do you know of any research into pair programming (with positive *or* negative results) that should appear here? Please <a href="https://github.com/tupleapp/pair-programming-guide/issues/new">open an issue</a>.</p>
