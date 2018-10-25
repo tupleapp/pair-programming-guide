@@ -45,7 +45,7 @@ Once you've got some experience under your belt, you'll find that pairing truly 
 But for this first session, try to pair on something that doesn't feel intimidating. Something you're already pretty sure you know how to accomplish is good.
 
 
-## Don't call it pairing
+## Maybe don't call it pairing
 
 The word "pairing" carries some baggage with it.
 
