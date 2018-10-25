@@ -16,8 +16,8 @@ title: Tuple's Pair Programming Guide
 
 ### Articles
 
-- [The Case For Pair Programming](/pair-programming-guide/the-case-for-pair-programming)
 - [Your First Pairing Session](/pair-programming-guide/your-first-pairing-session)
+- [The Case For Pair Programming](/pair-programming-guide/the-case-for-pair-programming)
 - [Scientific Research Into Pairing](/pair-programming-guide/scientific-research-into-pair-programming)
 - [Lesser-Known Benefits of Pairing](/pair-programming-guide/lesser-known-benefits-of-pair-programming)
 - [Great External Resources](/pair-programming-guide/links)
@@ -35,7 +35,7 @@ title: Tuple's Pair Programming Guide
 - [The Art of Pairing](/pair-programming-guide/full-stack-radio-podcast)
 
 
-## What can be better?
+## Input needed
 
 Our goal is to make this a _comprehensive_ guide for thoughtful programmers who care about pairing well. 
 
