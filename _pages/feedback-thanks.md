@@ -4,6 +4,8 @@ title: Thanks!
 permalink: /feedback-thanks
 ---
 
-Thanks for your feedback! 
+Aw, you're the best!
 
-We're looking forward to reading your suggestion. Keep 'em coming :).
+We really appreciate you sharing your feedback. That note you just wrote goes straight to our inbox, so we're sure to see it.
+
+Please keep 'em coming :).
