@@ -16,14 +16,14 @@ title: Tuple's Pair Programming Guide
 
 ### Articles
 
-- [Your First Pairing Session](/pair-programming-guide/your-first-pairing-session)
 - [The Case For Pair Programming](/pair-programming-guide/the-case-for-pair-programming)
-- [Scientific Research Into Pairing](/pair-programming-guide/scientific-research-into-pair-programming)
-- [Lesser-Known Benefits of Pairing](/pair-programming-guide/lesser-known-benefits-of-pair-programming)
-- [Great External Resources](/pair-programming-guide/links)
-- [How To Pair With A Junior Dev](/pair-programming-guide/how-to-pair-with-a-junior-developer)
+- [Your First Pairing Session](/pair-programming-guide/your-first-pairing-session)
 - [Styles of Pairing](/pair-programming-guide/styles)
 - [Pairing Antipatterns](/pair-programming-guide/antipatterns)
+- [Lesser-Known Benefits of Pairing](/pair-programming-guide/lesser-known-benefits-of-pair-programming)
+- [How To Pair With A Junior Dev](/pair-programming-guide/how-to-pair-with-a-junior-developer)
+- [Scientific Research Into Pairing](/pair-programming-guide/scientific-research-into-pair-programming)
+- [Great External Resources](/pair-programming-guide/links)
 
 ### Videos
 
