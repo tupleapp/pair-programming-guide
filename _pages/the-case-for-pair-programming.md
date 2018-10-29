@@ -59,3 +59,11 @@ The best way to answer this is to look at what teams that ship slowly spend a lo
 ### How should we get started?
 
 Check out our guide on [your first pairing session](your-first-pairing-session).
+
+{% 
+include navigation-buttons.html 
+previous-title="All Content" 
+previous-url="/pair-programming-guide/"
+next-title="Your First Pairing Session"
+next-url="/pair-programming-guide/your-first-pairing-session"
+%}
