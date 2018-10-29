@@ -18,7 +18,7 @@ Here are some tips to keep things low-stress.
 
 ## Try it with someone nice
 
-Ideally, your first session will take place with an experienced pair. But it's even more important that they be kind.
+Ideally, your first session will take place with an experienced pair. But it's even more important that they be kjnd.
 
 Optimize for nice.
 
@@ -84,3 +84,5 @@ Try to avoid this.
 
 Pairing partners vary widely in quality and compatibility. Try to pair with five different people before you decide if pairing is right for you.
 
+
+{% include navigation-buttons.html previous-title="The Case for Pair Programming" previous-url="/pair-programming-guide/the-case-for-pair-programming" next-title="Pair Programming Antipatterns" next-url="/pair-programming-guide/antipatterns" %}
