@@ -27,3 +27,12 @@ Highlights:
 - At 18:26, Joe shows off a clever way of testing that an object delegates to another.
 - At 23:41, I discuss why pointing out typos right away as the navigator is an [antipattern](/pair-programming-guide/antipatterns#leaping-on-errors-too-quickly).
 - At 30:54, we get stuck! This is a great opportunity to see two devs explore their way out of a surprising problem.
+
+
+{% 
+include navigation-buttons.html 
+previous-title="Pairing on Elixir, Phoenix, Elm" 
+previous-url="/pair-programming-guide/elixir-phoenix-elm"
+next-title="Audio: Art of Pairing" 
+next-url="/pair-programming-guide/full-stack-radio-podcast"
+%}

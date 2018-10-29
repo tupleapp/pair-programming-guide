@@ -95,3 +95,11 @@ Yours truly, on the Full Stack Radio podcast.
 > * Why pairing often removes the need for code review
 > * How to get started with pairing if you've never done it before
 
+
+{% 
+include navigation-buttons.html 
+previous-title="Scientific Research"
+previous-url="/pair-programming-guide/scientific-research-into-pair-programming"
+next-title="Pairing on Elixir, Phoenix, Elm" 
+next-url="/pair-programming-guide/elixir-phoenix-elm"
+%}

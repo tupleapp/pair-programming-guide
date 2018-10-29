@@ -114,3 +114,12 @@ You will not be good at it at first, but consistent practice will yield improvem
 Don't give up after a difficult first experience. Don't assume experienced developers are automatically good pairing partners. Don't expect to be good without practice.
 
 Consider reflecting with your pair or asking for feedback after each session. What could have been better?
+
+
+{% 
+include navigation-buttons.html 
+previous-title="Pair Programming Styles" 
+previous-url="/pair-programming-guide/styles"
+next-title="Lesser-known Benefits"
+next-url="/pair-programming-guide/lesser-known-benefits-of-pair-programming"
+%}

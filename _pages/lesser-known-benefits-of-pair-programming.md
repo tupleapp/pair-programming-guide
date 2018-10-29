@@ -41,3 +41,11 @@ nit picks.
 <p class="text-xs">Thanks to <a href="https://github.com/hugo">@hugo</a> for this section!</p>
 
 <p class="text-sm pt-10 italic">Have you experienced a lesser-known benefit that's not mentioned here? I'd love to hear it! Please <a href="https://github.com/tupleapp/pair-programming-guide/issues/new">open an issue</a>.</p>
+
+{% 
+include navigation-buttons.html 
+previous-title="Pair Programming Antipatterns" 
+previous-url="/pair-programming-guide/antipatterns"
+next-title="How To Pair With A Junior Dev"
+next-url="/pair-programming-guide/how-to-pair-with-a-junior-developer"
+%}

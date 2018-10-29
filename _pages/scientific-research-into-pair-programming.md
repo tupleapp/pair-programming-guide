@@ -94,3 +94,12 @@ Process](/pair-programming-guide/scientific-research-into-pair-programming#the-c
 
 
 <p class="text-sm pt-10">Do you know of any research into pair programming (with positive *or* negative results) that should appear here? Please <a href="https://github.com/tupleapp/pair-programming-guide/issues/new">open an issue</a>.</p>
+
+
+{% 
+include navigation-buttons.html 
+previous-title="How To Pair With A Junior Dev" 
+previous-url="/pair-programming-guide/how-to-pair-with-a-junior-developer"
+next-title="Great External Resources"
+next-url="/pair-programming-guide/links"
+%}

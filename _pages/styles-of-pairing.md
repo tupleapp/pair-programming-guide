@@ -50,3 +50,11 @@ This seems like madness, but we're including it here for completeness:
 > The golden rule for this style of pairing is: "For an idea to go from your head into the computer it MUST go through someone else's hands"
 
 [This article](http://llewellynfalco.blogspot.com/2014/06/llewellyns-strong-style-pairing.html) has more details.
+
+{% 
+include navigation-buttons.html 
+previous-title="Your First Pairing Session" 
+previous-url="/pair-programming-guide/your-first-pairing-session"
+next-title="Pair Programming Antipatterns"
+next-url="/pair-programming-guide/antipatterns"
+%}
