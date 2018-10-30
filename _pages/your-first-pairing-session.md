@@ -85,10 +85,17 @@ Try to avoid this.
 Pairing partners vary widely in quality and compatibility. Try to pair with five different people before you decide if pairing is right for you.
 
 
+## Use a template
+
+Want some further guidance on your first session?
+
+Check out our [pairing session template](/pair-programming-guide/template) for ideas.
+
+
 {% 
 include navigation-buttons.html 
 previous-title="The Case for Pair Programming" 
 previous-url="/pair-programming-guide/the-case-for-pair-programming"
-next-title="Pair Programming Styles"
-next-url="/pair-programming-guide/styles"
+next-title="A Pairing Session Template"
+next-url="/pair-programming-guide/template"
 %}

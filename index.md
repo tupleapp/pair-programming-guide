@@ -18,6 +18,7 @@ title: Tuple's Pair Programming Guide
 
 - [The Case For Pair Programming](/pair-programming-guide/the-case-for-pair-programming)
 - [Your First Pairing Session](/pair-programming-guide/your-first-pairing-session)
+- [A Pairing Session Template](/pair-programming-guide/template)
 - [Styles of Pairing](/pair-programming-guide/styles)
 - [Pairing Antipatterns](/pair-programming-guide/antipatterns)
 - [Lesser-Known Benefits of Pairing](/pair-programming-guide/lesser-known-benefits-of-pair-programming)

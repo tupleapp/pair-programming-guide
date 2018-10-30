@@ -53,8 +53,8 @@ This seems like madness, but we're including it here for completeness:
 
 {% 
 include navigation-buttons.html 
-previous-title="Your First Pairing Session" 
-previous-url="/pair-programming-guide/your-first-pairing-session"
+previous-title="A Pairing Session Template" 
+previous-url="/pair-programming-guide/template"
 next-title="Pair Programming Antipatterns"
 next-url="/pair-programming-guide/antipatterns"
 %}
