@@ -1,1 +1,6 @@
+# Why we need this:
+#   1. Jekyll is rewriting requests to strip out the baseurl in dev, which is /pair-programming-guide
+#   2. Jekyll actually doesn't serve our app in prod, so we have redirects in the *landing* instance replicate this stripping/rewriting
+#   3. Accessing the guide instance directly requires the redirect below to match the landing instance behavior
+
 /pair-programming-guide/* /:splat 200
