@@ -9,15 +9,15 @@ meta: A template to help guide your pair programming session
 
 Here's a template for your next pairing session:
 
-```
-1. [ ] Agree on the high-level goal out loud.
-2. [ ] Break the work into a handful of tasks and prioritize them.
-3. [ ] Decide your driver/navigator swapping strategy.
-4. [ ] Configure git to share credit.
-5. [ ] Eliminate distractions.
-6. [ ] Work.
-7. [ ] Analyze the session with a mini retro.
-```
+<ol class="font-mono my-6">
+  <li class="mt-3">[ ] Agree on the high-level goal out loud.</li>
+  <li class="mt-3">[ ] Break the work into a handful of tasks and prioritize them.</li>
+  <li class="mt-3">[ ] Decide your driver/navigator swapping strategy.</li>
+  <li class="mt-3">[ ] Configure git to share credit.</li>
+  <li class="mt-3">[ ] Eliminate distractions.</li>
+  <li class="mt-3">[ ] Work.</li>
+  <li class="mt-3">[ ] Analyze the session with a mini retro.</li>
+</ol>
 
 Let's talk more about each step.
 
