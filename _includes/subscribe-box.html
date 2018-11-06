@@ -9,6 +9,12 @@
     aria-label="Email address entry" name="fields[email]"
     autocomplete="email">
 
+    <input type="hidden" id="referrer" name="fields[referrer]" value="">
+
+    <input type="hidden" id="utm_campaign" name="fields[utm_campaign]" value="">
+    <input type="hidden" id="utm_source" name="fields[utm_source]" value="">
+    <input type="hidden" id="utm_medium" name="fields[utm_medium]" value="">
+
     <button class="w-full md:w-auto md:flex-no-shrink
     bg-indigo-light hover:bg-indigo-lighter border-indigo-light
     hover:border-indigo-lighter uppercase font-bold
@@ -21,3 +27,18 @@
   </div>
 </form>
 
+<script>
+  // Send useful values via hidden fields.
+
+  // Referrer
+  document.getElementById("referrer").value = document.referrer;
+
+  // UTM stuff
+  var url = new URL(window.location.href);
+  var utm_campaign = url.searchParams.get("utm_campaign");
+  var utm_source = url.searchParams.get("utm_source");
+  var utm_medium = url.searchParams.get("utm_medium");
+  document.getElementById("utm_campaign").value = utm_campaign;
+  document.getElementById("utm_source").value = utm_source;
+  document.getElementById("utm_medium").value = utm_medium;
+</script>
