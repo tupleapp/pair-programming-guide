@@ -12,8 +12,6 @@ title: Tuple's Pair Programming Guide
 
 <div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
 
-## Table of Contents
-
 ### Articles
 
 - [The Case For Pair Programming](/pair-programming-guide/the-case-for-pair-programming)
@@ -30,6 +28,7 @@ title: Tuple's Pair Programming Guide
 
 - [Pairing on Elixir, Phoenix, and Elm](/pair-programming-guide/elixir-phoenix-elm)
 - [TDD Ping-Pong in Ruby](/pair-programming-guide/tdd-ping-pong-ruby)
+- [Pairing on HTML/CSS/Design/Tailwind](/pair-programming-guide/html-css-and-tailwind)
 
 ### Audio
 
