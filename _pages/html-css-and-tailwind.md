@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pairing on HTML/CSS/Design/Tailwind
+title: Pairing on HTML, CSS, and Design (featuring Tailwind CSS)
 permalink: /html-css-and-tailwind
 meta: A video of a remote pairing session with two developers working on HTML, CSS, and design (featuring the Tailwind CSS framework).
 ---
