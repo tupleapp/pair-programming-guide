@@ -18,7 +18,7 @@ Here are some tips to keep things low-stress.
 
 ## Try it with someone nice
 
-Ideally, your first session will take place with an experienced pair. But it's even more important that they be kjnd.
+Ideally, your first session will take place with an experienced pair. But it's even more important that they be kind.
 
 Optimize for nice.
 
