@@ -23,6 +23,7 @@ title: Tuple's Pair Programming Guide
 - [How To Pair With A Junior Dev](/pair-programming-guide/how-to-pair-with-a-junior-developer)
 - [Scientific Research Into Pairing](/pair-programming-guide/scientific-research-into-pair-programming)
 - [Great External Resources](/pair-programming-guide/links)
+- [Pair Programming Interview Tipts](/pair-programming-guide/interview-tips)
 
 ### Videos
 

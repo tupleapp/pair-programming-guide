@@ -100,6 +100,6 @@ Yours truly, on the Full Stack Radio podcast.
 include navigation-buttons.html 
 previous-title="Scientific Research"
 previous-url="/pair-programming-guide/scientific-research-into-pair-programming"
-next-title="Pairing on Elixir, Phoenix, Elm" 
-next-url="/pair-programming-guide/elixir-phoenix-elm"
+next-title="Pairing Interview Tips" 
+next-url="/pair-programming-guide/interview-tips"
 %}
