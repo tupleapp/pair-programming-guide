@@ -12,6 +12,10 @@ title: Tuple's Pair Programming Guide
 
 <div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
 
+<div class="w-3/4">
+  <img alt="an illustration of two people pair programming" src="/pair-programming-guide/assets/pair-programming-illustration.svg">
+</div>
+
 ### Articles
 
 - [The Case For Pair Programming](/pair-programming-guide/the-case-for-pair-programming)
