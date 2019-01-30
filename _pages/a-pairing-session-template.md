@@ -56,7 +56,7 @@ Unless you already know what works best for you, I strongly recommend the Pomodo
 2. Take a 5 minute break.
 3. Switch drivers.
 
-Other [pair programming styles](/pair-programming-guide-styles) exist if you wish to try them.
+Other [pair programming styles](/pair-programming-guide/styles) exist if you wish to try them.
 
 
 ## 4. Configure git to share credit
