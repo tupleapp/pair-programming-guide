@@ -45,7 +45,7 @@ It's extremely easy to make things worse with a careless word, sigh, or body lan
 
 If you get frustrated or bored, its your duty to hide this fact as best you can. If you can't hide it, suggest a break.
 
-Never drum your fingers on the desk.
+Try not to drum your fingers on the desk.
 
 
 
@@ -69,7 +69,7 @@ Spend most of the session observing them patiently and share only the tip or two
 
 Don't say someone should "always" or "never" do something. Share the tradeoffs of each approach.
 
-Never justify a decision by saying it's a best practice. Talk about the elements make it a good fit for your situation.
+Avoid justifying a decision by saying it's a best practice. Talk about the elements make it a good fit for your situation.
 
 
 ## Ask questions
