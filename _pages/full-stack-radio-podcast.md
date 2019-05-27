@@ -9,7 +9,7 @@ meta: 53 minutes of pair programming discussion between Ben Orenstein and Adam W
 
 <div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
 
-## [Episode 94](http://www.fullstackradio.com/94)
+## [Get the episode](http://www.fullstackradio.com/94)
 
 In this episode, Adam Wathan and I discuss the benefits of pair programming and how to do it effectively.
 
