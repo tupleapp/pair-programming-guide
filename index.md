@@ -33,6 +33,7 @@ title: Tuple's Pair Programming Guide
 - [Pairing on Elixir, Phoenix, and Elm](/pair-programming-guide/elixir-phoenix-elm)
 - [TDD Ping-Pong in Ruby](/pair-programming-guide/tdd-ping-pong-ruby)
 - [Pairing on HTML/CSS/Design](/pair-programming-guide/html-css-and-tailwind)
+- [Why Your Engineers Are Afraid To Pair](https://www.youtube.com/watch?v=u2XJisddOEg)
 
 ### Audio
 
