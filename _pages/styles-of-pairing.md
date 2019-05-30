@@ -41,7 +41,7 @@ Three recommendations:
 2. Try to write a _minimal_ failing test, and the _smallest_ amount of code that will make it pass. This is easy to forget in the moment.
 3. Don't forget to spend some time refactoring when things are green.
 
-Want to see this style in action? Check out [TDD Ping-Pong Pairing](/pair-programming-guide/tdd-ping-pong).
+Want to see this style in action? Check out [TDD Ping-Pong Pairing](/pair-programming-guide/tdd-ping-pong-ruby).
 
 ## Strong style
 
