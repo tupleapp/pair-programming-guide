@@ -25,7 +25,7 @@ I finish the day tired but pleased.
 
 ### Your hands get a break
 
-RSI is no joke. It can end careers.
+RSI (Repetitive Stress Injury, can be caused by excess typing) is no joke. It can end careers.
 
 Pairing lets you share the typing and put fewer miles on your tissues.
 
