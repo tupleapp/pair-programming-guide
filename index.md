@@ -6,7 +6,7 @@ layout: default
 title: Tuple's Pair Programming Guide
 ---
 
-# Tuple's Pair Programming Guide (wip)
+# Tuple's Pair Programming Guide
 
 <p class="text-lg">Tips, tutorials, and resources for thoughtful pair programmers</p>
 
