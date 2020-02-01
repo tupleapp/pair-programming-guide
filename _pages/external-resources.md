@@ -96,6 +96,10 @@ Yours truly, on the Full Stack Radio podcast.
 > * How to get started with pairing if you've never done it before
 
 
+## [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
+
+This is an _extremely_ thorough article on the subject. Recommended!
+
 {% 
 include navigation-buttons.html 
 previous-title="Scientific Research"
