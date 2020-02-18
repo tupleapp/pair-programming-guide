@@ -2,13 +2,11 @@
   "devDependencies": {
     "autoprefixer": "^9.1.5",
     "postcss-cli": "^6.0.0",
-    "tailwindcss": "^0.6.6"
+    "tailwindcss": "^0.7.4"
   },
-
   "scripts": {
     "build": "postcss css/styles.css -o css/pairing-guide-compiled.css",
     "watch": "postcss css/styles.css -o css/pairing-guide-compiled.css --watch"
   },
-
-  "license" : "CC-BY-NC-3.0"
+  "license": "CC-BY-NC-3.0"
 }
