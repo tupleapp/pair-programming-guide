@@ -117,6 +117,6 @@ Possible areas for improvement:
 include navigation-buttons.html 
 previous-title="Your First Pairing Session" 
 previous-url="/pair-programming-guide/your-first-pairing-session"
-next-title="Pair Programing Styles"
+next-title="Pair Programming Styles"
 next-url="/pair-programming-guide/styles"
 %}
