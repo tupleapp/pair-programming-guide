@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ben Orenstein on Full Stack Radio, Episode 94
-permalink: /full-stack-radio-podcast
+permalink: /arc
 meta: 53 minutes of pair programming discussion between Ben Orenstein and Adam Wathan on Full Stack Radio.
 ---
 
