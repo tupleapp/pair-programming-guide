@@ -1,7 +1,7 @@
 ---
 layout: default
 title: All About Pair Programming: AMA with Ben Orenstein
-permalink: /all-about-pairing-podcast
+permalink: /arc
 ---
 
 # All About Pair Programming: AMA with Ben Orenstein of Tuple
