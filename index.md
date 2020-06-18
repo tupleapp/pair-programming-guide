@@ -38,6 +38,7 @@ title: Tuple's Pair Programming Guide
 ### Audio
 
 - [The Art of Pairing](/pair-programming-guide/full-stack-radio-podcast)
+- [AMA with Ben Orenstein](/pair-programming-guide/arc)
 
 
 ## Input needed
