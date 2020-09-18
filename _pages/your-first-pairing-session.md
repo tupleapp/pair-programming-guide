@@ -54,7 +54,7 @@ If the idea intimidates you or your partner, consider not even using the p-word.
 Try "can I get a second set of eyes on this?"
 
 
-## Try mobbing
+## Try mob programming ("mobbing")
 
 Some folks find mob programming less intimidating than a two-person pairing session.
 
