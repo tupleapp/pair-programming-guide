@@ -3,10 +3,7 @@ layout: default
 title: Talking Pairing with Shopify's VP Eng
 permalink: /shopify-interview
 meta: Farhan Thawar (VP of Engineering at Shopify) and Ben Orenstein (CEO of Tuple) address common objections to pair programming, how to be a great pair, whether pairing obviates code review, introducing the practice to new teams, and how Shopify is continuing its pairing culture in a digital-first world.
-img:
-  path: "/pair-programming-guide/assets/farhan.jpg"
-twitter:
-  image: "/pair-programming-guide/assets/farhan.jpg"
+twitter-image: "/pair-programming-guide/assets/farhan.jpg"
 ---
 
 {% include article-top.html %}
