@@ -34,6 +34,7 @@ title: Tuple's Pair Programming Guide
 - [TDD Ping-Pong in Ruby](/pair-programming-guide/tdd-ping-pong-ruby)
 - [Pairing on HTML/CSS/Design](/pair-programming-guide/html-css-and-tailwind)
 - [Why Your Engineers Are Afraid To Pair](https://www.youtube.com/watch?v=u2XJisddOEg)
+- [Talking Pairing with Shopify's VP Eng](/pair-programming-guide/shopify-interview)
 
 ### Audio
 
