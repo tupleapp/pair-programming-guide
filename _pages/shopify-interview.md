@@ -13,7 +13,7 @@ In this video, I interview [Farhan Thawar](https://twitter.com/fnthawar), VP of 
 
 This discussion goes deep into pairing. Even intermediate and advanced folks are likely to get quite a bit from it.
 
-### Topics covered
+### Topics include
 
 * His experience managing 125 pairs of developers.
 * Things you learn from pairing that aren't just about code.
