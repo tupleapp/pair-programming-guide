@@ -7,11 +7,6 @@ meta: Tips for experienced developers who pair program with newer devs.
 
 {% include article-top.html %}
 
-_This guide is written for experienced developers. If you're a junior dev, you
-can [subscribe below](#subscribe) to hear when we publish beginner-oriented
-articles.)_
-
-
 ## Prioritize learning over productivity
 
 Yes, you could probably complete this task faster on your own.
