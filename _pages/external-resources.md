@@ -9,6 +9,28 @@ meta: A collection of links to high-quality writing (and podcasts) about pair pr
 
 We didn't write these guides, but you should read them anyway.
 
+## [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
+
+_by Birgitta Böckeler and Nina Siessegger_
+
+This is an _extremely_ thorough article on the subject. It covers techniques, compelling benefits, and practical solutions for arguments commonly used against pairing.
+
+> Pairing feels hard – but that doesn't necessarily mean it's not good for a team. And most importantly, it does not have to stay hard.
+
+It started as an internal slide deck that was curated and crowd-sourced, so it's full of quality advice derived from real experience:
+
+> **Different skill levels**
+>
+>When two people with different experience levels pair on a topic, this often leads to false assumptions on how much each of them can contribute, or frustrations because of difference in pace.
+>
+> **Ways to tackle**
+>
+>If your pair has more experience on the topic: Don't assume they know best. Maybe the need to explain why they are doing things the way they are will bring them new insights. Asking questions on the how and why can lead to fruitful discussions and better solutions. [...]
+
+The detailed explanations and examples make this article a must read.
+
+
+
 ## [The Art of Agile Development: Pair Programming](https://www.jamesshore.com/Agile-Book/pair_programming.html)
 
 _by James Shore_ 
@@ -94,11 +116,6 @@ Yours truly, on the Full Stack Radio podcast.
 > * How pairing helps you build things faster
 > * Why pairing often removes the need for code review
 > * How to get started with pairing if you've never done it before
-
-
-## [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
-
-This is an _extremely_ thorough article on the subject. Recommended!
 
 {% 
 include navigation-buttons.html 
