@@ -35,6 +35,7 @@ title: Tuple's Pair Programming Guide
 - [Pairing on HTML/CSS/Design](/pair-programming-guide/html-css-and-tailwind)
 - [Why Your Engineers Are Afraid To Pair](https://www.youtube.com/watch?v=u2XJisddOEg)
 - [Talking Pairing with Shopify's VP Eng](/pair-programming-guide/shopify-interview)
+- [Todd Sedano on Considerate Pairing](/pair-programming-guide/considerate-pairing)
 
 ### Audio
 
