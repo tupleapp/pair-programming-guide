@@ -24,3 +24,4 @@ Todd has thought a _lot_ about the people side of pairing, and brought a wonderf
 * How to increase the odds that your pairing relationships stay healthy.
 * The power of asking for feedback and sharing your vulnerabilities.
 * How to pair within a power imbalance.
+* Why Todd doesn't love the driver/navigator metaphor.
