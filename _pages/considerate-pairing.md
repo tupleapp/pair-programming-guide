@@ -2,7 +2,7 @@
 layout: default
 title: Todd Sedano on Considerate Pairing
 permalink: /considerate-pairing
-meta: Todd Sedano has worked at Pivotal (known for their ~100% pairing rate) for 7 years and is the creator of Considerate Pair Programming Technique Cards, a collection of pairing advice/questions/koans you can hold in your hand.
+meta: Todd gives an exceptionally thoughtful and vulnerable interview about the interpersonal side of pairing (which is most of it!)
 twitter-image: "https://tuple.app/pair-programming-guide/assets/todd.jpeg"
 ---
 
