@@ -22,4 +22,5 @@ Todd has thought a _lot_ about the people side of pairing, and brought a wonderf
 * A good break cadence/length during sessions.
 * Todd's [Considerate Pair Programming Technique Cards](https://www.amazon.com/Considerate-Pair-Programming-Technique-Cards/dp/B07L8QF3RC)
 * How to increase the odds that your pairing relationships stay healthy.
-* The power of asking for feedback.
+* The power of asking for feedback and sharing your vulnerabilities.
+* How to pair within a power imbalance.
