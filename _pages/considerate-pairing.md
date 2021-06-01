@@ -14,11 +14,12 @@ In this video, I interview [Todd Sedano](https://sedano.org), Engineering Manage
 
 Todd has thought a _lot_ about the people side of pairing, and brought a wonderful sense of compassion and vulnerability to this this interview. It's very much worth a watch for improving the "soft skills" of pairing.
 
-Topics covered include:
+### Topics include
 
 * Todd's "one secret" about pairing.
-* Todd's [Considerate Pair Programming Technique Cards](https://www.amazon.com/Considerate-Pair-Programming-Technique-Cards/dp/B07L8QF3RC)
 * The beauty of "I can't do it, but we can." 
 * Why you might welcome interruptions when working as a pair.
 * A good break cadence/length during sessions.
+* Todd's [Considerate Pair Programming Technique Cards](https://www.amazon.com/Considerate-Pair-Programming-Technique-Cards/dp/B07L8QF3RC)
 * How to increase the odds that your pairing relationships stay healthy.
+* The power of asking for feedback.
