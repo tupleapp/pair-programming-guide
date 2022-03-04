@@ -1,3 +1,11 @@
+## Accessing the guide
+
+The Tuple pair programming guide is available at the following URLs, so you can pick the one that best matches your context.
+
+- [pairprogrammingguide.com](https://pairprogrammingguide.com)
+- [learntopair.com](https://learntopair.com)
+- [tuple.app/pair-programming-guide](https://tuple.app/pair-programming-guide)
+
 ## Getting started
 
 1. Install the deps: `yarn && bundle install`.
