@@ -64,7 +64,7 @@ Spend most of the session observing them patiently and share only the tip or two
 
 Don't say someone should "always" or "never" do something. Share the tradeoffs of each approach.
 
-Avoid justifying a decision by saying it's a best practice. Talk about the elements make it a good fit for your situation.
+Avoid justifying a decision by saying it's a best practice. Talk about the elements that make it a good fit for your situation.
 
 
 ## Ask questions
