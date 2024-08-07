@@ -53,12 +53,12 @@ Regarding the performance of pairs vs individuals:
 > productivity of only 77 llpm.**
 
 > The error rate [&hellip;] was **three orders of magnitude lower than the
-> organization's norm.** 
+> organization's norm.**
 
 (Pairs had a defect rate _one thousandth_ of individuals&apos;. Holy crap!)
 
 
-## [The Collaborative Software Process](http://www.cs.utah.edu/~lwilliam/Papers/ICSE.pdf)
+## [The Collaborative Software Process](https://collaboration.csc.ncsu.edu/laurie/Papers/dissertation.pdf)
 
 _Wiliams, L. A. (2000)_
 
@@ -70,7 +70,7 @@ _Wiliams, L. A. (2000)_
 > results point in favor of the collaborative teams [&hellip;].**
 
 One key finding: the pairs took 15% more developer hours to produce their
-solutions, but those solutions had 15% fewer bugs. 
+solutions, but those solutions had 15% fewer bugs.
 
 
 ## [Strengthening the Case for Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/ieeeSoftware.PDF)
@@ -96,9 +96,9 @@ Process](/pair-programming-guide/scientific-research-into-pair-programming#the-c
 <p class="text-sm pt-10">Do you know of any research into pair programming (with positive *or* negative results) that should appear here? Please <a href="https://github.com/tupleapp/pair-programming-guide/issues/new">open an issue</a>.</p>
 
 
-{% 
-include navigation-buttons.html 
-previous-title="How To Pair With A Junior Dev" 
+{%
+include navigation-buttons.html
+previous-title="How To Pair With A Junior Dev"
 previous-url="/pair-programming-guide/how-to-pair-with-a-junior-developer"
 next-title="Great External Resources"
 next-url="/pair-programming-guide/links"
