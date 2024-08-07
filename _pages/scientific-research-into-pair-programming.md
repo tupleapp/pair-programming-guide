@@ -6,7 +6,7 @@ permalink: /scientific-research-into-pair-programming
 
 {% include article-top.html %}
 
-Regrettably, there's not much. But here are the papers worth reading and sharing.
+Here are the papers worth reading and sharing.
 
 ## [The Costs and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
 
